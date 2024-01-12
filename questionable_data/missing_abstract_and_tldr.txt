@@ -1,0 +1,3410 @@
+paperId: 00257849161b19e93a4028db022de746987b205b
+publicationDate: 2023-09-28
+influentialCitationCount: 0
+title: Exploring the Mediating Role of Emotions Between Growth Language Mindset and Engagement Among EFL Learners
+tldr: nan
+abstract: nan
+
+paperId: 00d1569df23b67b1a662875210bdd761b40be737
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Integration of a large language model with augmentative and alternative communication (AAC) tool for oncological aphasia rehabilitation
+tldr: nan
+abstract: nan
+
+paperId: 00d1949695220eee33f1824235e02f359e31e4b3
+publicationDate: nan
+influentialCitationCount: 0
+title: Implicit Bias in Large Language Models: Experimental Proof and Implications for Education
+tldr: nan
+abstract: nan
+
+paperId: 00d5e39186188a0597fdc1a6883214aa1ae49fee
+publicationDate: 2023-10-23
+influentialCitationCount: 0
+title: A framework for evaluating rapidly developing digital and related technologies: AI, Large Language Models and beyond
+tldr: nan
+abstract: nan
+
+paperId: 01568d5b3777e0c123944b09095fa7ae5f791718
+publicationDate: 2023-02-01
+influentialCitationCount: 0
+title: Prepare for truly useful large language models
+tldr: nan
+abstract: nan
+
+paperId: 016c8d91f8a102111dc5eb76ab4ce433b9e2ec53
+publicationDate: nan
+influentialCitationCount: 0
+title: How Well Do Large Language Models Perform on Faux Pas Tests?
+tldr: nan
+abstract: nan
+
+paperId: 023b08a33070daf7b5f54b8493d13c1837d64640
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Applications of Artificial Intelligence and Large Language Models to Plastic Surgery Research.
+tldr: nan
+abstract: nan
+
+paperId: 02eb8719173622f3f5400f83660a5de14dd8c0a7
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Re: Michael Eppler, Conner Ganjavi, Lorenzo Storino Ramacciotti, et al. Awareness and Use of ChatGPT and Large Language Models: A Prospective Cross-sectional Global Survey in Urology. Eur Urol. In press. https://doi.org/10.1016/j.eururo.2023.10.014.
+tldr: nan
+abstract: nan
+
+paperId: 02f6f8035c37a1f8871a66d1c748cad253c132a4
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Predicting seizure recurrence from medical records using large language models.
+tldr: nan
+abstract: nan
+
+paperId: 039bf68dba941778b35a60b22c533c87a6f0046a
+publicationDate: nan
+influentialCitationCount: 0
+title: Enhancing Sentiment Analysis based Investment by Large Language Models in Japanese Stock Market
+tldr: nan
+abstract: nan
+
+paperId: 0461d03ad25e8baaf18245833c0e1fecc4a736f5
+publicationDate: nan
+influentialCitationCount: 0
+title: Technology And Globalisation: How Social Media (Narrow Artificial Intelligence) Algorithms and Large Language Models by Internet Companies Have Replaced the Main Stream Media as Agenda Setters For the Global Culture
+tldr: nan
+abstract: nan
+
+paperId: 04b13b2dbc82271859b961556612e2d1451c8a34
+publicationDate: nan
+influentialCitationCount: 0
+title: Fine-Tuning Large Language Models for Answering Programming Questions with Code Snippets
+tldr: nan
+abstract: nan
+
+paperId: 0534f45bf0f08478ca1a40c37cae5684ba1f5ffe
+publicationDate: nan
+influentialCitationCount: 0
+title: Challenging ChatGPT '
+Intelligence' with Human Tools: A Neuropsychological Investigation on Prefrontal Functioning of a Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: 0553ff6d10a8dd377d6d0c171f8612231b7211a2
+publicationDate: nan
+influentialCitationCount: 0
+title: DriveLLM: Charting The Path Toward Full Autonomous Driving with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 056b111a787210fcd75be1d0f278bf8d8aa32490
+publicationDate: nan
+influentialCitationCount: 0
+title: Dynamic Voting for Efficient Reasoning in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 05bd589aeb88809d188a26a20b0294c2ed9c863b
+publicationDate: 2023-12-06
+influentialCitationCount: 0
+title: A Policy on the Use of Artificial Intelligence and Large Language Models in Peer Review.
+tldr: nan
+abstract: nan
+
+paperId: 062eb69864bcf63517bbf1ee215cddf79517b85d
+publicationDate: 2023-12-28
+influentialCitationCount: 0
+title: Leave It to Large Language Models! Correct and Planning with Memory Integration
+tldr: nan
+abstract: nan
+
+paperId: 06542229e43732c13ad813451ef35011ada49dac
+publicationDate: nan
+influentialCitationCount: 0
+title: Using Large Language Models to Provide Formative Feedback in Intelligent Textbooks
+tldr: nan
+abstract: nan
+
+paperId: 067cf6cba7aee45d75c8ef31fbda3e7b8cfaaad1
+publicationDate: 2023-10-13
+influentialCitationCount: 2
+title: Using large language models in psychology
+tldr: nan
+abstract: nan
+
+paperId: 06d8eea1739f2d09a3460b9c6a819576e4cd3679
+publicationDate: nan
+influentialCitationCount: 0
+title: Evaluation of Pretrained Large Language Models in Embodied Planning Tasks
+tldr: nan
+abstract: nan
+
+paperId: 06e4d9f04064e0781d146908851e951d3e13b333
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: ChatGPT has entered the classroom: how LLMs could transform education
+tldr: nan
+abstract: nan
+
+paperId: 07f893206b6923a7dc69f59b260c21514eb476d3
+publicationDate: 2023-07-01
+influentialCitationCount: 2
+title: Feasibility of Differential Diagnosis Based on Imaging Patterns Using a Large Language Model.
+tldr: nan
+abstract: nan
+
+paperId: 0804d6c0bf9fd707c778e4cdc07354d7d2d1560c
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Large Language Modeling and Classical AI methods for the future of Healthcare
+tldr: nan
+abstract: nan
+
+paperId: 082add4b4968256c3b283368e505d509ebcdf41b
+publicationDate: 2023-05-04
+influentialCitationCount: 0
+title: Structural properties and evolution of global photovoltaic industry trade network
+tldr: nan
+abstract: nan
+
+paperId: 08476ae3b80092e7c27f67a42ce03a70fc6596fb
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Response to “Large language model artificial intelligence: the current state and future of ChatGPT in neuro-oncology publishing”
+tldr: nan
+abstract: nan
+
+paperId: 08dd8304a74f6c98e3d592a565458549ddbb3cd6
+publicationDate: nan
+influentialCitationCount: 0
+title: Enhancing Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies
+tldr: nan
+abstract: nan
+
+paperId: 099b9461f15cc7da89f1845a6206b88a6ac742cf
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Studying second language acquisition in the age of large language models: Unlocking the mysteries of language and learning, A commentary on “Age effects in second language acquisition: Expanding the emergentist account” by Catherine L. Caldwell-Harris and Brian MacWhinney
+tldr: nan
+abstract: nan
+
+paperId: 0b2e81866d14bb646d220725f518aebb5519e8d9
+publicationDate: 2023-02-17
+influentialCitationCount: 0
+title: Assessing the content typicality and construct of Persian language proficiency test (PLPT) for non-Persian speakers: a corpus-informed study
+tldr: nan
+abstract: nan
+
+paperId: 0b31f7ec107cf0e517ff764381fd039b09e7597c
+publicationDate: 2023-09-08
+influentialCitationCount: 0
+title: Medical AI chatbots: are they safe to talk to patients?
+tldr: nan
+abstract: nan
+
+paperId: 0bc82c906653177066190e70a3c174a25178f66e
+publicationDate: 2023-07-06
+influentialCitationCount: 0
+title: Leveraging large language models in dermatology.
+tldr: nan
+abstract: nan
+
+paperId: 0c2f65adb29d4144f85ee938e98dcab624ebbc7e
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models Meet Harry Potter: A Dataset for Aligning Dialogue Agents with Characters
+tldr: nan
+abstract: nan
+
+paperId: 0c51d642fccc503b6fd0e9bbfa94d81b22b94ff1
+publicationDate: 2023-06-19
+influentialCitationCount: 0
+title: ChatGPT saves the day
+tldr: nan
+abstract: nan
+
+paperId: 0e51381ed34b345ed22cca09c4fe07fc84e52ccf
+publicationDate: 2023-03-01
+influentialCitationCount: 0
+title: Cognitive Profiles of Children with Isolated and Comorbid Learning Difficulties in Reading and Math: a Meta-analysis
+tldr: nan
+abstract: nan
+
+paperId: 0e80e9e640b0e0bcc3c31489a3628ca0e36c436c
+publicationDate: 2023-08-11
+influentialCitationCount: 0
+title: Large language models for structured reporting in radiology: comment
+tldr: nan
+abstract: nan
+
+paperId: 0f9ecb2aeeb2835d2bd2e5b7e809f87c67d76420
+publicationDate: 2023-10-14
+influentialCitationCount: 0
+title: Comparative prevalence and characteristics of fabricated citations in large language models in headache medicine.
+tldr: nan
+abstract: nan
+
+paperId: 102173f0a0a38d13da1169d3f26d8fc56984d121
+publicationDate: 2023-07-03
+influentialCitationCount: 0
+title: Leveraging generative artificial intelligence based on large language models for collaborative learning
+tldr: nan
+abstract: nan
+
+paperId: 107b8f0f895e34f46142d3143b864b7f3e970fd6
+publicationDate: nan
+influentialCitationCount: 0
+title: Bias Mitigation for Large Language Models using Adversarial Learning
+tldr: nan
+abstract: nan
+
+paperId: 11b99ebd5f8be02fc523adcb52f2effcbabc508f
+publicationDate: nan
+influentialCitationCount: 0
+title: Evaluating the Potential of Large Language Model AI as Project Management Assistants: A Comparative Simulation to Evaluate GPT-3.5, GPT-4, and Google-Bard Ability to pass the PMI's PMP test
+tldr: nan
+abstract: nan
+
+paperId: 11f79eb3e00c133b7c35b90e646a66631c310361
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: ChatGPT is a black box: how AI research can break it open
+tldr: nan
+abstract: nan
+
+paperId: 12278b3f94d35c4989326e375ad1e9307d7a1aea
+publicationDate: 2023-05-01
+influentialCitationCount: 0
+title: Can large language models write reflectively
+tldr: nan
+abstract: nan
+
+paperId: 132700b640df860a92cc0eae14fae530c3ee0ea3
+publicationDate: nan
+influentialCitationCount: 0
+title: Math Education with Large Language Models: Peril or Promise?
+tldr: nan
+abstract: nan
+
+paperId: 13408ee42b288d5a04f1dcce5e81b72a2f585943
+publicationDate: nan
+influentialCitationCount: 0
+title: Enriching large language models with semantic lexicons and analogies. (Enrichir des modèles de langue de grande taille avec des lexiques sémantiques et des analogies)
+tldr: nan
+abstract: nan
+
+paperId: 146850c5801637a7a1e6ee61d8f258676035c0e9
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: What are large language models supposed to model?
+tldr: nan
+abstract: nan
+
+paperId: 155275f581af856a9b96b9662097e8bfdae63a67
+publicationDate: 2023-10-15
+influentialCitationCount: 0
+title: How large language models can be used in the field of orthodontics
+tldr: nan
+abstract: nan
+
+paperId: 15c6333b8ab65a38ed13ceb17d8756618a80ba37
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: The Impact of AI and Cross-Border Data Regulation on International Trade in Digital Services: A Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: 1689d1203c726951e897ba9e2ffdd589b26b5e4f
+publicationDate: nan
+influentialCitationCount: 0
+title: ActuaryGPT: Applications of Large Language Models to Insurance and Actuarial Work
+tldr: nan
+abstract: nan
+
+paperId: 1798888bceb298330eef155c5d419b7d462009fe
+publicationDate: nan
+influentialCitationCount: 0
+title: Comparing Different Approaches to Generating Mathematics Explanations Using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 17a6832e6cb5ff769c71d1e6e2f9c79fcc6bd1e3
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Psychometric properties of an Arabic translation of the Big Three Perfectionism Scale–Short Form (BTPS-SF) in a community sample of adults
+tldr: nan
+abstract: nan
+
+paperId: 17f6ee5a96137059d40d1ccc417825529685208a
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Comment on Performance of Generative Large Language Models on Ophthalmology Board Style Questions.
+tldr: nan
+abstract: nan
+
+paperId: 19035c3c8c7978622cc71c9740d153c89954abfd
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: More is Different: Large Language Models in Healthcare.
+tldr: nan
+abstract: nan
+
+paperId: 190fae9e195ffde0d6e11f0407256a8a04eaef02
+publicationDate: 2023-07-07
+influentialCitationCount: 0
+title: Large-Language-Models und die DSGVO – „Wer den Datenschutz nicht ehrt, ist die KI nicht wert?“
+tldr: nan
+abstract: nan
+
+paperId: 1957b5d81801b8c5027c443e47e0b1d61b5dd51d
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Large models for genomics
+tldr: nan
+abstract: nan
+
+paperId: 199a11a4194bcb9bfeeacabe29e66d0a1d73583c
+publicationDate: nan
+influentialCitationCount: 0
+title: Local Large Language Models for Complex Structured Medical Tasks
+tldr: nan
+abstract: nan
+
+paperId: 19c060e303e70646a36f4ff558ccb4c8b331ab01
+publicationDate: 2023-07-28
+influentialCitationCount: 0
+title: A critical examination and suggestions for large language models for structured reporting in radiology
+tldr: nan
+abstract: nan
+
+paperId: 1a45036551db376aa90ddb2508e8e71d305cfd87
+publicationDate: 2023-05-29
+influentialCitationCount: 0
+title: The inevitable transformation of medicine and research by large language models: The possibilities and pitfalls
+tldr: nan
+abstract: nan
+
+paperId: 1a6eaad96a80d8c0f49a91bc9399aac2bbb91e83
+publicationDate: nan
+influentialCitationCount: 0
+title: Roe: A Computational-Efficient Anti-hallucination Fine-Tuning Technology for Large Language Model Inspired by Human Learning Process
+tldr: nan
+abstract: nan
+
+paperId: 1a7bbfb1c2bf2e6f7c5bd0bc59e191ddb745af63
+publicationDate: 2023-06-03
+influentialCitationCount: 0
+title: Full-band, multi-angle, multi-scale, and temporal dynamic field spectral measurements in China
+tldr: nan
+abstract: nan
+
+paperId: 1b5b701f658ef277fd9f37bf4b91d84d44d54c25
+publicationDate: 2023-08-01
+influentialCitationCount: 1
+title: Bridging the data gap between children and large language models
+tldr: nan
+abstract: nan
+
+paperId: 1bc955e499771688466afcbf9187f3eb9f6da61a
+publicationDate: 2023-09-11
+influentialCitationCount: 0
+title: Impact of Conversational and Generative AI Systems on Libraries: A Use Case Large Language Model (LLM)
+tldr: nan
+abstract: nan
+
+paperId: 1c5940abde2a52bf1869add5bce0033f4fdb1217
+publicationDate: 2023-07-10
+influentialCitationCount: 0
+title: Publisher Correction: Fighting reviewer fatigue or amplifying bias? Considerations and recommendations for use of ChatGPT and other large language models in scholarly peer review
+tldr: nan
+abstract: nan
+
+paperId: 1c94a0b9a61217e2f6e424e14580c06a082e8874
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Using fine-tuned large language models to parse clinical notes in musculoskeletal pain disorders
+tldr: nan
+abstract: nan
+
+paperId: 1cb8209f9a6234425eee81f64dce3cb523aaa01f
+publicationDate: nan
+influentialCitationCount: 0
+title: Monolingual Denoising with Large Language Models for Low-Resource Machine Translation
+tldr: nan
+abstract: nan
+
+paperId: 1cbc0ca66cb43f8c59b7bd2793c01e0510c51b03
+publicationDate: 2023-11-30
+influentialCitationCount: 0
+title: Do Large Language Models Understand?
+tldr: nan
+abstract: nan
+
+paperId: 1d49e46a8ec63f95c289c2d9db5fcacc4210e39a
+publicationDate: 2023-11-06
+influentialCitationCount: 0
+title: Generative AI and the Automating of Academia
+tldr: nan
+abstract: nan
+
+paperId: 1d8762662f9bcb9b1ac943f5c3f98bdc38663e61
+publicationDate: 2023-03-01
+influentialCitationCount: 1
+title: The Artificial intelligence large language models and neuropsychiatry practice and research ethic.
+tldr: nan
+abstract: nan
+
+paperId: 1e23b308fe910aeea33ecdab8312d851e299f44d
+publicationDate: nan
+influentialCitationCount: 0
+title: Instance-Aware and Semantic-Guided Prompt for Few-Shot Learning in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 1ed1c5c6d10ef67358821a1675cc1dc24e7e50e9
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Medical Metaverse, Part 2: Artificial Intelligence Algorithms and Large Language Models in Psychiatry and Clinical Neurosciences.
+tldr: nan
+abstract: nan
+
+paperId: 1eddc37b279552d3206fbc852de82560b49b5feb
+publicationDate: 2023-07-12
+influentialCitationCount: 0
+title: “Personhood and AI: Why large language models don’t understand us”
+tldr: nan
+abstract: nan
+
+paperId: 1f315ebc504f52f781ee629c7402443aa9450564
+publicationDate: 2023-10-02
+influentialCitationCount: 0
+title: Truth and Regret: Large Language Models, the Quran, and Misinformation
+tldr: nan
+abstract: nan
+
+paperId: 1f78c732f960cfbe817b6660b61f24b637fcb03c
+publicationDate: 2023-11-30
+influentialCitationCount: 0
+title: Author Correction: Large language models and agricultural extension services.
+tldr: nan
+abstract: nan
+
+paperId: 1f8de34c9ea85c81dcb8ed0204f66f7c399d3769
+publicationDate: nan
+influentialCitationCount: 0
+title: Leveraging the OPT Large Language Model for Sentiment Analysis of Game Reviews
+tldr: nan
+abstract: nan
+
+paperId: 1fc7d690cf20d9a22373d41c7aaa39fe22559e53
+publicationDate: 2023-11-03
+influentialCitationCount: 0
+title: The application of large language models in pediatrics and medical research—Revolution or risk?
+tldr: nan
+abstract: nan
+
+paperId: 1ff7b3adea3ee2782a635b8921e9dee4909c51a7
+publicationDate: 2023-10-15
+influentialCitationCount: 0
+title: Large language models in the labyrinth: Possibility spaces and moral constraints
+tldr: nan
+abstract: nan
+
+paperId: 20378cd343f568e7dadad91767ab53a9f3737e3a
+publicationDate: 2023-12-11
+influentialCitationCount: 0
+title: Human-in-the-loop: Human involvement in enhancing medical inquiry performance in large language models.
+tldr: nan
+abstract: nan
+
+paperId: 20830f8e5843b647bf03a9b54d64e990386b62e2
+publicationDate: nan
+influentialCitationCount: 0
+title: Mitigation of User-Prompt Bias in Large Language Models: A Natural Langauge Processing and Deep Learning Based Framework
+tldr: nan
+abstract: nan
+
+paperId: 20aa1ceae2832216a5ff0bd6307d864a184ee23b
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: The impact of prompt engineering in large language model performance: a psychiatric example
+tldr: nan
+abstract: nan
+
+paperId: 21e57cbd88523dd22088c1b3db94d8fe91f3af1e
+publicationDate: nan
+influentialCitationCount: 0
+title: FinDKG: Dynamic Knowledge Graph with Large Language Models for Global Finance
+tldr: nan
+abstract: nan
+
+paperId: 2213f0ca3b2c543498b6405533643c6e0bc82687
+publicationDate: 2023-11-16
+influentialCitationCount: 0
+title: Letter to the editor concerning "Large language models: Are artificial intelligence-based chatbots a reliable source of patient information for spinal surgery?" by R. Stroop et al. (Eur Spine J [2023]; doi:10.1007/s00586-023-07975-z).
+tldr: nan
+abstract: nan
+
+paperId: 2223b92d9c5cb9b2594c1585eac03b32c2f313cb
+publicationDate: 2023-02-01
+influentialCitationCount: 2
+title: The promise of large language models in health care
+tldr: nan
+abstract: nan
+
+paperId: 223e9160ba9ced02893c571320b92fc849630814
+publicationDate: 2023-11-18
+influentialCitationCount: 0
+title: Answer to the letter to the editor of H. Daungsupawong et al. concerning "Large language models: Are artificial intelligence-based chatbots a reliable source of patient information for spinal surgery?" by R. Stroop et al. (Eur Spine J [2023]; doi:10.1007/s00586-023-07975-z).
+tldr: nan
+abstract: nan
+
+paperId: 2287520ddda28db16d546ec782b7dbe2d522a692
+publicationDate: 2023-08-14
+influentialCitationCount: 0
+title: Individual differences in the neural dynamics of visual narrative comprehension: The effects of proficiency and age of acquisition.
+tldr: nan
+abstract: nan
+
+paperId: 2382bd65ed1e3ac2164476b2bb03bec37275a16a
+publicationDate: 2023-09-27
+influentialCitationCount: 0
+title: AI tools as science policy advisers? The potential and the pitfalls
+tldr: nan
+abstract: nan
+
+paperId: 257f02c551b0bbd9e1b40b605a58c37132ce50e0
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Considerations for Adapting Higher Education Technology Courses for AI Large Language Models: A Critical Review of the Impact of ChatGPT
+tldr: nan
+abstract: nan
+
+paperId: 265fd6d26cfa8b0c157eac1986410de46b43569f
+publicationDate: nan
+influentialCitationCount: 0
+title: Learning How to Use Large Language Models for Empirical Legal Research
+tldr: nan
+abstract: nan
+
+paperId: 26709d3a8c8cc4b020d5f190e5745fac3e8f195a
+publicationDate: nan
+influentialCitationCount: 0
+title: Post-Deployment Regulatory Oversight for General-Purpose Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 26d5d32802a6e18983bd32762019a08521331bb6
+publicationDate: 2023-03-01
+influentialCitationCount: 0
+title: Pharmacist vs machine: pharmacy services in the age of large language models.
+tldr: nan
+abstract: nan
+
+paperId: 278637c81af92452ad0ffd3abfdb91b121627285
+publicationDate: 2023-10-05
+influentialCitationCount: 0
+title: Future of Interacting with Computers and Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 2828842adfbe87d2d79e40927a468db15ae7d3c3
+publicationDate: 2023-11-14
+influentialCitationCount: 0
+title: Flying Into the Future With Large Language Models.
+tldr: nan
+abstract: nan
+
+paperId: 287f8c5d84546a52ae79ad0908a780528f5f59f5
+publicationDate: 2023-08-03
+influentialCitationCount: 0
+title: Social media analysis reveals environmental injustices in Philadelphia urban parks
+tldr: nan
+abstract: nan
+
+paperId: 2922ec2c571ecd7147efec911f21fa11281cb27e
+publicationDate: 2023-10-20
+influentialCitationCount: 0
+title: Stigma in Large Language Models: A Chatbot Responds.
+tldr: nan
+abstract: nan
+
+paperId: 29e914332afe0296721e3b1834ad8b6191d111bf
+publicationDate: 2023-07-03
+influentialCitationCount: 0
+title: Developing a framework to re-design writing assignment assessment for the era of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 2a67b42dcbb5e668101ca449d4b886e756cd0430
+publicationDate: nan
+influentialCitationCount: 0
+title: Data-Driven Unsupervised Semantic Network Algorithm for Large Language Model Examination/Exploration
+tldr: nan
+abstract: nan
+
+paperId: 2a9a48893032d2663b7a8b225cee4d45aaeb373b
+publicationDate: nan
+influentialCitationCount: 0
+title: Tailoring Large Language Models to Radiology: A Preliminary Approach to LLM Adaptation for a Highly Specialized Domain
+tldr: nan
+abstract: nan
+
+paperId: 2b1f510b2587206db58bd471d0672c00a59f6611
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Complimentary role of large language models in educating undergraduate design of distillation column: Methodology development
+tldr: nan
+abstract: nan
+
+paperId: 2b22608bb7b5a6849cb19a0965f0c49f042eb1a1
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: LLMs differ from human cognition because they are not embodied
+tldr: nan
+abstract: nan
+
+paperId: 2bb9f4dbc73f9c6a13ff329ab6b0ae16a902d904
+publicationDate: nan
+influentialCitationCount: 0
+title: Enhancing the Quality of Teaching and Learning through ChatGPT and Similar Large Language Models: Challenges, Future Prospects, and Ethical Considerations in Education
+tldr: nan
+abstract: nan
+
+paperId: 2bd4358ff20dff41a06f78a54b1ea2eeaeb9e46d
+publicationDate: 2023-10-16
+influentialCitationCount: 0
+title: Large language model's utility in helping pathology professionals.
+tldr: nan
+abstract: nan
+
+paperId: 2be2eb28a010c86dd29d3faae8c8ef359b4d8e7b
+publicationDate: nan
+influentialCitationCount: 0
+title: 'Let’s Have a Chat': Principles for the Effective Application of ChatGPT and Large Language Models in the Practice of Forensic Accounting
+tldr: nan
+abstract: nan
+
+paperId: 2c02c9e20bd0d6704e0bb127d6a3e3445d137afc
+publicationDate: 2023-12-07
+influentialCitationCount: 0
+title: GastroGPT: Successful proof-of-concept study of gastroenterology-specific large language model
+tldr: nan
+abstract: nan
+
+paperId: 2c0b3c4306fcc8e662d65b387fcd989802370fb1
+publicationDate: nan
+influentialCitationCount: 0
+title: Is It Really That Simple? Prompting Large Language Models for Automatic Text Simplification in Italian
+tldr: nan
+abstract: nan
+
+paperId: 2c3c495ba193e81cb0108adb7e5824565f776cf8
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Large Language Models – Where Are We and Where Are We Going?
+tldr: nan
+abstract: nan
+
+paperId: 2caaa86037953d931f4374d2e6f2e9027aaf7caf
+publicationDate: nan
+influentialCitationCount: 0
+title: Scaling Large Language Models to the Extreme: Neural Semantic Processing of Multiple Tasks in Italian
+tldr: nan
+abstract: nan
+
+paperId: 2d3e0d0e1513b369b342fb427d87f0ec51ea7e0b
+publicationDate: 2023-09-16
+influentialCitationCount: 0
+title: Large language models as an “operating” system for software and systems modeling
+tldr: nan
+abstract: nan
+
+paperId: 2ddb8d9384698ef9e2f19b4a5391d97f33777442
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Language models and linguistic theories beyond words
+tldr: nan
+abstract: nan
+
+paperId: 2ddcde590a0615e13a2d58b465249a2ab1a7bf2e
+publicationDate: nan
+influentialCitationCount: 0
+title: Portfolio Construction with News Sentiment using Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: 2e8473ed7abb28f9084b3d2ca0a29ffc2e18b1e6
+publicationDate: nan
+influentialCitationCount: 0
+title: Sharing Learning Experience Using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 2eb2d04e97f025fd1f55fe93473f0102180588b1
+publicationDate: nan
+influentialCitationCount: 0
+title: The Impact of Large Language Models on Search Advertising: Evidence from Google’s BERT
+tldr: nan
+abstract: nan
+
+paperId: 2ec1a746dc718790333015944f319a6785c4103e
+publicationDate: 2023-05-03
+influentialCitationCount: 0
+title: A Surgical Perspective on Large Language Models.
+tldr: nan
+abstract: nan
+
+paperId: 2f2601ee388b1449623313b5de1d1c1c5a89516d
+publicationDate: nan
+influentialCitationCount: 0
+title: An embodied conversational agent that merges large language models and domain-specific assistance
+tldr: nan
+abstract: nan
+
+paperId: 3041dc1dc5db0c332b8ee55b11db47e817f4527a
+publicationDate: 2023-09-25
+influentialCitationCount: 0
+title: Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education.
+tldr: nan
+abstract: nan
+
+paperId: 30484b8fa02ad979e5c8c936139acdce230e84af
+publicationDate: nan
+influentialCitationCount: 0
+title: Fighting Lies with Intelligence: Using Large Language Models and Chain of Thoughts Technique to Combat Fake News
+tldr: nan
+abstract: nan
+
+paperId: 306729d17285e22bb434036b350c055283a343a4
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: PP132 Developing prompts from large language model for extracting clinical information from pathological and ultrasound findings in breast cancer
+tldr: nan
+abstract: nan
+
+paperId: 318fe8440842693e7b0f27648964f875760c7efe
+publicationDate: nan
+influentialCitationCount: 0
+title: Variable Discovery with Large Language Models for Metamorphic Testing of Scientific Software
+tldr: nan
+abstract: nan
+
+paperId: 3231381ec96fab5c26a9bad0791b67d308a75e0d
+publicationDate: 2023-12-04
+influentialCitationCount: 0
+title: Opportunities and Challenges of Human Large Language Models in Surgery: a biblimetric analysis.
+tldr: nan
+abstract: nan
+
+paperId: 32d4154e9a2bb5ac25e09463298845a0f7cbf6de
+publicationDate: 2023-10-08
+influentialCitationCount: 0
+title: Navigating the ethical and practical challenges of large language models in telehealth.
+tldr: nan
+abstract: nan
+
+paperId: 33112b58e3eb4a6506fa537d892dc6742c5e794d
+publicationDate: 2023-07-24
+influentialCitationCount: 0
+title: Large language models in health care: Development, applications, and challenges
+tldr: nan
+abstract: nan
+
+paperId: 3492ccdfca8f57e083de1acc08cb6ee83b9fde03
+publicationDate: 2023-07-27
+influentialCitationCount: 0
+title: Publisher Correction: Large language models encode clinical knowledge.
+tldr: nan
+abstract: nan
+
+paperId: 349a080b4649e6ea8440178cde6e72b448fcc951
+publicationDate: 2023-02-16
+influentialCitationCount: 0
+title: Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media
+tldr: nan
+abstract: nan
+
+paperId: 34c75964df9543fac07d7db5ce4cdad6ae65d812
+publicationDate: 2023-05-01
+influentialCitationCount: 0
+title: Exploring the Use of Large Language Models (LLMs) in Chemical Engineering Education: Building Core Course Problem Models
+tldr: nan
+abstract: nan
+
+paperId: 34df94d299e6dfa57ca9d15efa6d484b595211f9
+publicationDate: 2023-07-05
+influentialCitationCount: 0
+title: oREV: An item response theory-based open receptive vocabulary task for 3- to 8-year-old children.
+tldr: nan
+abstract: nan
+
+paperId: 35631ee82080a1e34003ad1256554606c71e2ef5
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Leveraging large language models: transforming scholarly publishing for the better.
+tldr: nan
+abstract: nan
+
+paperId: 356c118db396d3059811b567473d17369ef10eb8
+publicationDate: nan
+influentialCitationCount: 0
+title: Select, Prompt, Filter: Distilling Large Language Models for Summarizing Conversations
+tldr: nan
+abstract: nan
+
+paperId: 362b2ed4bc8de4883b0b3976143d1c11cbc32281
+publicationDate: 2023-03-20
+influentialCitationCount: 0
+title: Krishna V. Shenoy (1968–2023)
+tldr: nan
+abstract: nan
+
+paperId: 3728cfdd9bfea33bfdd3fd0c22e0b9500eb1aa4c
+publicationDate: 2023-11-13
+influentialCitationCount: 0
+title: Examining otolaryngologists' attitudes towards large language models (LLMs) such as ChatGPT: a comprehensive deep learning analysis.
+tldr: nan
+abstract: nan
+
+paperId: 378a12e27bda92246bfd654402b9876501bebdf8
+publicationDate: 2023-04-06
+influentialCitationCount: 0
+title: Sex differences in the temporal dynamics of autistic children’s natural conversations
+tldr: nan
+abstract: nan
+
+paperId: 3899bad8e337819ba13d5f1fbab8612521983cb5
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Large-language models binnen de klinische chemie
+tldr: nan
+abstract: nan
+
+paperId: 3a3ce493b0d770151077f4caa2a97aff5f051c68
+publicationDate: 2023-03-14
+influentialCitationCount: 0
+title: Effects of coal bedding dip angle on hydraulic fracturing crack propagation
+tldr: nan
+abstract: nan
+
+paperId: 3ae8ff22ea5f1a5a18c0dbb22c8ac9465cefb6c5
+publicationDate: 2023-05-18
+influentialCitationCount: 0
+title: Use of Large Language Models and Artificial Intelligence Tools in Works Submitted to Journal of Clinical Oncology.
+tldr: nan
+abstract: nan
+
+paperId: 3b30d9c3cbd71cde8ba7938721777b0a197a3cb4
+publicationDate: 2023-12-12
+influentialCitationCount: 0
+title: Comment on: AI am a rheumatologist: a practical primer to large language models for rheumatologists. Second reply.
+tldr: nan
+abstract: nan
+
+paperId: 3b43cfe8aeaadec8b58a8fa8759a1aa42f1b35b2
+publicationDate: nan
+influentialCitationCount: 0
+title: Knowledge Injection to Counter Large Language Model (LLM) Hallucination
+tldr: nan
+abstract: nan
+
+paperId: 3b56879b5dd766084bd895e64248eebde3e8a95a
+publicationDate: nan
+influentialCitationCount: 0
+title: Conversing with machines The rise of ChatGPT and the future of research on Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 3c77fa751bb1a299730427a8fd83bcb9f29e5077
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Exploring Infection Clinicians' Perceptions of Bias in Large Language Models (LLMs) like ChatGPT: A Deep Learning Study.
+tldr: nan
+abstract: nan
+
+paperId: 3ca61a6c77b96018cca446cf05aff7b188e99a95
+publicationDate: 2023-12-11
+influentialCitationCount: 0
+title: Correction: Complications Following Facelift and Neck Lift: Implementation and Assessment of Large Language Model and Artificial Intelligence (ChatGPT) Performance Across 16 Simulated Patient Presentations.
+tldr: nan
+abstract: nan
+
+paperId: 3cdc6aca7e462caa07405074c6a659c710abd100
+publicationDate: 2023-10-02
+influentialCitationCount: 0
+title: Evaluating the Application of Large Language Models in Clinical Research Contexts.
+tldr: nan
+abstract: nan
+
+paperId: 3d9062ce257faef108f910664cbbc2a7f8a3a1e3
+publicationDate: nan
+influentialCitationCount: 0
+title: KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion
+tldr: nan
+abstract: nan
+
+paperId: 3d9a495dc60223a2ae33e48284466c73f5b3ed6f
+publicationDate: 2023-07-19
+influentialCitationCount: 0
+title: Study Tests Large Language Models' Ability to Answer Clinical Questions.
+tldr: nan
+abstract: nan
+
+paperId: 3dd9b9c85431534ef74a8a677b991ccc405c85cb
+publicationDate: nan
+influentialCitationCount: 0
+title: Query Rewriting in Retrieval-Augmented Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 3dffcee1ba053e2244be6d7400a9244506ea14cd
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Challenges of Large Language models (LLMs) and the black box dilemma: The Aspect of interpretability in medicine.
+tldr: nan
+abstract: nan
+
+paperId: 3e12b2ea9faa8e6aa0ae5f07b34b470adc257c35
+publicationDate: nan
+influentialCitationCount: 0
+title: Implications of ChatGPT and Large Language Models for Environmental Policymaking
+tldr: nan
+abstract: nan
+
+paperId: 3efc04b8d924057e51482c888185161fc974d4ba
+publicationDate: nan
+influentialCitationCount: 0
+title: Enhancing Semantic Resources via Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 3fd56473d7884e304b38d376b0ef238b45c61678
+publicationDate: 2023-10-03
+influentialCitationCount: 0
+title: Large language models (ChatGPT) in medical education: Embrace or abjure?
+tldr: nan
+abstract: nan
+
+paperId: 41170119fc89a9bd4414b2b0f3e466e1a1c87d10
+publicationDate: nan
+influentialCitationCount: 0
+title: Demonstrating Large Language Models on Robots
+tldr: nan
+abstract: nan
+
+paperId: 41ba4440227793addd1b4d9a1cbe573cf101c704
+publicationDate: nan
+influentialCitationCount: 0
+title: AutoScrum: Automating Project Planning Using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 41c42b035c8266f9e56d734edd970c7b5d9f0bcf
+publicationDate: 2023-11-14
+influentialCitationCount: 0
+title: AI writes summaries of preprints in bioRxiv trial
+tldr: nan
+abstract: nan
+
+paperId: 421287ae9d7092ff0529ab72e5f35d3bb4e6beaa
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: 312 When AI Meets the Emergency Department: Realizing the Benefits of Large Language Models in Emergency Medicine
+tldr: nan
+abstract: nan
+
+paperId: 4247d6ddc00d67d7210cc121d885f61293d58c05
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Ethical Concerns Regarding the Use of Large Language Models in Healthcare
+tldr: nan
+abstract: nan
+
+paperId: 428057300776bc5a6ed215b351b8d517d484ef1e
+publicationDate: 2023-04-18
+influentialCitationCount: 1
+title: Variability in Large Language Models’ Responses to Medical Licensing and Certification Examinations. Comment on “How Does ChatGPT Perform on the United States Medical Licensing Examination? The Implications of Large Language Models for Medical Education and Knowledge Assessment”
+tldr: nan
+abstract: nan
+
+paperId: 42841d18af71c239f3a6e16b5f7acc8b5b47f526
+publicationDate: 2023-05-30
+influentialCitationCount: 0
+title: Farmers’ preference and willingness to pay for weather forecast services in Benin (West Africa)
+tldr: nan
+abstract: nan
+
+paperId: 4294a8399e549dc36b16c8f13156a0e0eb986396
+publicationDate: 2023-05-01
+influentialCitationCount: 1
+title: Application of Large Language Models to Software Engineering Tasks: Opportunities, Risks, and Implications
+tldr: nan
+abstract: nan
+
+paperId: 43b5d1195c762c67db145f69486e12ad7be46b6c
+publicationDate: nan
+influentialCitationCount: 0
+title: Concept Understanding in Large Language Models: An Empirical Study
+tldr: nan
+abstract: nan
+
+paperId: 43bbd493d9abb3f0b0e22ae381a6239b1384e81b
+publicationDate: 2023-04-03
+influentialCitationCount: 0
+title: Bidirectional associations between mental health problems and language ability across 8 years of childhood
+tldr: nan
+abstract: nan
+
+paperId: 44172739f1b0891aa99e4d285cfe02fa1e4fe611
+publicationDate: nan
+influentialCitationCount: 0
+title: The Case for Large Language Model Optimism in Legal Research from a Law & Technology Librarian
+tldr: nan
+abstract: nan
+
+paperId: 45122f02f44394ff22880bef56a1c410106abef7
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: SUMMATIVE-REFLECTION SUPPORT METHOD BY CLUSTERING WRITTEN REFLECTIONS USING LARGE LANGUAGE MODELS
+tldr: nan
+abstract: nan
+
+paperId: 452f4463f28d4077c5b668df1d2422641e0cb39e
+publicationDate: 2023-11-30
+influentialCitationCount: 0
+title: Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 4540d2f5be6563ea91a56aef36b8354aac197303
+publicationDate: nan
+influentialCitationCount: 0
+title: Parameter-efficient Tuning for Large Language Model without Calculating Its Gradients
+tldr: nan
+abstract: nan
+
+paperId: 455baa1a57a14028858f533ddb4dda3f78306e84
+publicationDate: 2023-12-22
+influentialCitationCount: 0
+title: Will superintelligent AI sneak up on us? New study offers reassurance
+tldr: nan
+abstract: nan
+
+paperId: 46137166084af64a7d115c7a731a1ce0da4c066e
+publicationDate: nan
+influentialCitationCount: 0
+title: Do Language Models Have a Common Sense regarding Time? Revisiting Temporal Commonsense Reasoning in the Era of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 46e91ab63e7408f7a0bab327655f4038367cc977
+publicationDate: 2023-12-22
+influentialCitationCount: 0
+title: Large language models in bariatric surgery patient support: A transformative approach to patient education and engagement.
+tldr: nan
+abstract: nan
+
+paperId: 474654e6beea9e59809867c446a95f576474606a
+publicationDate: nan
+influentialCitationCount: 0
+title: Evaluating large language models for use in healthcare: A framework for translational value assessment
+tldr: nan
+abstract: nan
+
+paperId: 474bbf50023243281c0d73efd43ca42e2c4bbe19
+publicationDate: 2023-09-29
+influentialCitationCount: 0
+title: Redefining Virtual Assistants in Healthcare: The Future with Large Language Models (Preprint)
+tldr: nan
+abstract: nan
+
+paperId: 47bb105aeade86fd82ae22573cb77709d42760a9
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: P21 A Comparative Analysis of Large Language Models (LLM) Utilised in Systematic Literature Review
+tldr: nan
+abstract: nan
+
+paperId: 47c949b374c5026dd7345895817964f74de6a5e2
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: ChatGPT and GPT-4 in Ophthalmology: Applications of Large Language Model Artificial Intelligence in Retina.
+tldr: nan
+abstract: nan
+
+paperId: 489bc1a69b58d230faf7fb7cfe765667ccfb1f4d
+publicationDate: nan
+influentialCitationCount: 0
+title: A Retrospective in Engineering Large Language Models for National Security
+tldr: nan
+abstract: nan
+
+paperId: 48b29405b5a0d37dce376e5f2e02411dc1afa5f4
+publicationDate: 2023-10-20
+influentialCitationCount: 1
+title: CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training
+tldr: nan
+abstract: nan
+
+paperId: 495234c787c4a022cd98340c1d8e1a51e216e7d4
+publicationDate: nan
+influentialCitationCount: 0
+title: How can Transformers and large language models like ChatGPT help LCA practitioners?
+tldr: nan
+abstract: nan
+
+paperId: 4970f035884bed2e8274ccfe2a720e471aa9842f
+publicationDate: 2023-11-02
+influentialCitationCount: 0
+title: How Can Digital Storytelling Open Up Spaces for Activist Citizenship Where Young Children Create Stories of Hope and Resilience Across the World?
+tldr: nan
+abstract: nan
+
+paperId: 49718e7f1d03d87c31369a10ea9c47d567e9ce48
+publicationDate: nan
+influentialCitationCount: 0
+title: Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
+tldr: nan
+abstract: nan
+
+paperId: 499dc9e4cea901dd42d79d96407b93459e308873
+publicationDate: nan
+influentialCitationCount: 0
+title: Evaluating Explanations for Software Patches Generated by Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 4a8aed6f7ace1fb4e565e8a847a108bbf67a74bf
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Lost in Translation? Not for Large Language Models: Automated Divergent Thinking Scoring Performance Translates to Non-English Contexts
+tldr: nan
+abstract: nan
+
+paperId: 4aeca25421dd55b3a5b1065f5f7df6e8d6fd362b
+publicationDate: nan
+influentialCitationCount: 0
+title: Can Large Language Model Surprisal Capture the Informativity Bias in Human Language Processing?
+tldr: nan
+abstract: nan
+
+paperId: 4b677052c4a36281ce68d50411e44e479462a1c9
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: How Does Family Socioeconomic Status Influence Children’s Reading Ability? Evidence from Meta-analytic Structural Equation Modeling
+tldr: nan
+abstract: nan
+
+paperId: 4b6dc849b02177ea4547efadd88c1179c14d4961
+publicationDate: 2023-12-04
+influentialCitationCount: 0
+title: Meta smart glasses-large language models and the future for assistive glasses for individuals with vision impairments.
+tldr: nan
+abstract: nan
+
+paperId: 4c10d74a47547d4c3a1e4d9ee3e527f18509e270
+publicationDate: nan
+influentialCitationCount: 0
+title: Leveraging Large Language Models for End-User Website Generation
+tldr: nan
+abstract: nan
+
+paperId: 4d1384a7d7ccef690b6339c6d1876790fbcf7dfe
+publicationDate: nan
+influentialCitationCount: 0
+title: Framing Few-Shot Knowledge Graph Completion with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 4f5ec50c52d7c7beb03f4e788822b8eaeebd4670
+publicationDate: nan
+influentialCitationCount: 0
+title: Plan, Generate and Match: Scientific Workflow Recommendation with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 50389ca6aa4d4be5f81dbb25d819ee2534971c1a
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics
+tldr: nan
+abstract: nan
+
+paperId: 5224bd2e8bb83e86747d9f04a24744f3e8b999ef
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Exploring the Perspective of Infection Clinicians on the Integration of Large Language Models (LLMs) in Clinical Practice: A Deep Learning Study in Healthcare.
+tldr: nan
+abstract: nan
+
+paperId: 5294c51ca9a3d2b7745bc2e57e4d4b68107a45ab
+publicationDate: 2023-05-22
+influentialCitationCount: 0
+title: Clinical Accuracy of Large Language Models and Google Search Responses to Postpartum Depression Questions: Cross-Sectional Study
+tldr: nan
+abstract: nan
+
+paperId: 535a74184b19a46b9dfcfac0ceec3aa5dfe8d30e
+publicationDate: 2023-03-20
+influentialCitationCount: 0
+title: Performance of ChatGPT on the National Nurse Examinations in Japan: Large Language Model (Preprint)
+tldr: nan
+abstract: nan
+
+paperId: 53896a778459dc6525de635c7c520d508f18e5ce
+publicationDate: 2023-09-07
+influentialCitationCount: 0
+title: Language Models for Everyone—Responsible and Transparent Development of Open Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 53f133dfedf3de823a8ba9e885ef92a9e3811fd1
+publicationDate: nan
+influentialCitationCount: 0
+title: ChatGPT and GPT-4 for Professional Translators: Exploring the Potential of Large Language Models in Translation
+tldr: nan
+abstract: nan
+
+paperId: 5448c4305d918427e742627503b4999d0cdc6bbc
+publicationDate: 2023-06-27
+influentialCitationCount: 0
+title: Baby steps in evaluating the capacities of large language models
+tldr: nan
+abstract: nan
+
+paperId: 54e365eea03e83c81402c517edbb1cbb48dd8fe8
+publicationDate: nan
+influentialCitationCount: 0
+title: Using Large Language Models to Develop Readability Formulas for Educational Settings
+tldr: nan
+abstract: nan
+
+paperId: 55ad0427954c97d9f9a44469d3431d3803e58de2
+publicationDate: nan
+influentialCitationCount: 0
+title: PivotFEC: Enhancing Few-shot Factual Error Correction with a Pivot Task Approach using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 55da26489b7f0e23e35d15901dd29b2e058c5ee8
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Decoding ChatGPT: A primer on large language models for clinicians
+tldr: nan
+abstract: nan
+
+paperId: 58c3edcfc988d510938a71b9f825299acc22a99c
+publicationDate: nan
+influentialCitationCount: 0
+title: Analyzing the Innovative Potential of Texts Generated by Large Language Models: An Empirical Evaluation
+tldr: nan
+abstract: nan
+
+paperId: 5915528b7d0b68c42cb58b613a8a00c2ae25b080
+publicationDate: 2023-04-01
+influentialCitationCount: 0
+title: What’s the next word in large language models?
+tldr: nan
+abstract: nan
+
+paperId: 591a9d38ca6171c9cb5a7d65729026a9e1f08794
+publicationDate: 2023-10-12
+influentialCitationCount: 0
+title: Introducing AI-supported Research Highlights
+tldr: nan
+abstract: nan
+
+paperId: 59bed3776e211726755238eabd2e63283ba743ff
+publicationDate: 2023-02-23
+influentialCitationCount: 0
+title: Risks and Benefits of Large Language Models for the Environment.
+tldr: nan
+abstract: nan
+
+paperId: 5be3aa22c697241e41174d04fb3fe2bc81bc28b3
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Revolution or Peril? The Controversial Role of Large Language Models in Medical Manuscript Writing.
+tldr: nan
+abstract: nan
+
+paperId: 5cf7dff8b4624702311c2215e87a29af4044ccc9
+publicationDate: 2023-09-04
+influentialCitationCount: 0
+title: Value-based Healthcare: Can Generative Artificial Intelligence and Large Language Models be a Catalyst for Value-based Healthcare?
+tldr: nan
+abstract: nan
+
+paperId: 5d17439411b7d9e29dd0e517f4c4ce29db3cf48f
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: MSR46 Breaking Through Limitations: Enhanced Systematic Literature Reviews With Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 5d81d59a1647f6f327729c915ce20626e6f19ba5
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models Reduce Agency Costs
+tldr: nan
+abstract: nan
+
+paperId: 5d83129bcba836c5a795c0e66261d6d779b66b52
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Harnessing Artificial Neural Networks and large language models for bioprocess optimization: Predicting sugar output from Kraft waste-based lignocellulosic pretreatments
+tldr: nan
+abstract: nan
+
+paperId: 5e96f2e3bac533a62be6926acbed3cf7b1490287
+publicationDate: 2023-06-30
+influentialCitationCount: 0
+title: Leveraging large language models: transforming scholarly publishing for the better.
+tldr: nan
+abstract: nan
+
+paperId: 5ef8d681a6862866112d59785254158f999bc7b7
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: S1702 Comparing Large Language Models Accuracy in Following Interval Surveillance Colonoscopy Guidelines
+tldr: nan
+abstract: nan
+
+paperId: 60b0f425052fad54402ab00a7e0f5ec8480fae33
+publicationDate: nan
+influentialCitationCount: 0
+title: Adversarial Robustness for Large Language NER models using Disentanglement and Word Attributions
+tldr: nan
+abstract: nan
+
+paperId: 613d6c31af8f0ad43ad5679a72c542a6baa5ca35
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Re: Raghav Gupta, Adriana M. Pedraza, Michael A. Gorin, Ashutosh K. Tewari. Defining the Role of Large Language Models in Urologic Care and Research. Eur Urol Oncol. In press. https://doi.org/10.1016/j.euo.2023.07.017.
+tldr: nan
+abstract: nan
+
+paperId: 617e9ee51434704ff3c8f2836db4eb9a1b489438
+publicationDate: 2023-08-10
+influentialCitationCount: 0
+title: The Potential Role of Large Language Models in Uveitis Care: Perspectives After ChatGPT and Bard Launch.
+tldr: nan
+abstract: nan
+
+paperId: 61e85e77fb332cc29b2a89a088f29205ada3caf3
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Openly accessible LLMs can help us to understand human cognition
+tldr: nan
+abstract: nan
+
+paperId: 621b8c4b37d1e22d440262dda2206ac13da6d779
+publicationDate: 2023-01-26
+influentialCitationCount: 6
+title: ChatGPT and Other Large Language Models Are Double-edged Swords.
+tldr: nan
+abstract: nan
+
+paperId: 628d23e976ffc7f65dab68ffc5b47da0cb6978ff
+publicationDate: 2023-03-21
+influentialCitationCount: 0
+title: Large language models and the perils of their hallucinations
+tldr: nan
+abstract: nan
+
+paperId: 62a3871ebc484a0dfdc2ef66d9daece054a2f09e
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: P22 Disrupting Health Economics: Automating Network Meta-Analyses With AI and Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 62fd472261535436d058c48e2489614fc272b6d7
+publicationDate: nan
+influentialCitationCount: 0
+title: What Can Large Language Models Do for Theorem Proving and Formal Methods?
+tldr: nan
+abstract: nan
+
+paperId: 6307de98d07b0605c78765f4a4071d4b854f6288
+publicationDate: 2023-10-30
+influentialCitationCount: 0
+title: Understanding large language models: A guide for dental professionals.
+tldr: nan
+abstract: nan
+
+paperId: 63956840d720775219cc6ead92ecde82080bb574
+publicationDate: 2023-05-01
+influentialCitationCount: 0
+title: Can Large Language Models Better Predict Software Vulnerability?
+tldr: nan
+abstract: nan
+
+paperId: 63ebb002de2cbc1fc361c5b232072ba826d3a0f8
+publicationDate: nan
+influentialCitationCount: 0
+title: Modern Society Facing Morality of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 6523bca2bc0a9e5f08ce20a2574cf1a0c297a399
+publicationDate: 2023-02-21
+influentialCitationCount: 0
+title: Modeling of Large Sliding Between Contacting Bodies by Penalty-Based Element-Free Galerkin Method Using Node-to-Segment Approach
+tldr: nan
+abstract: nan
+
+paperId: 653ef024bedab0bb701f750af5b73630584d7527
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: MSR92 Can Artificial Intelligence (AI) Large Language Models (LLMS) Such as Generative Pre-Trained Transformer (GPT) Be Used to Automate Literature Reviews?
+tldr: nan
+abstract: nan
+
+paperId: 662194cea2b162ff4b6534234e5281bac19e83e5
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Looking to Future Applications of Large Language Models.
+tldr: nan
+abstract: nan
+
+paperId: 6691cabb753672bab2758b7f7be2497e056cfded
+publicationDate: 2023-08-23
+influentialCitationCount: 0
+title: Evaluating the Effectiveness of Artificial Intelligence-Powered Large Language Models Application in Disseminating Appropriate and Readable Health Information in Urology. Letter.
+tldr: nan
+abstract: nan
+
+paperId: 66a8358bee061ed45ff49d08694f3a7c3abb4b38
+publicationDate: nan
+influentialCitationCount: 0
+title: Compositional Task Representations for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 6701eb1d1731db084c445eb44a55a90e98774010
+publicationDate: 2023-05-10
+influentialCitationCount: 0
+title: Large Language Models and Their Implications on Medical Education.
+tldr: nan
+abstract: nan
+
+paperId: 67db5866469d3eb11f3659f02c312bea3dbbfd8b
+publicationDate: nan
+influentialCitationCount: 0
+title: KG-CTG: Citation Generation Through Knowledge Graph-Guided Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 67de20caaf5b5949aa0480dcabb4a9899fe3f283
+publicationDate: nan
+influentialCitationCount: 0
+title: Leveraging Large Language Models for Recommendation and Explanation
+tldr: nan
+abstract: nan
+
+paperId: 68359200f08c6fd0e74fd9b28bd950bc7450b34c
+publicationDate: nan
+influentialCitationCount: 0
+title: Decision-Making in Robotic Grasping with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 68ea87a7433a1508f73e54c34660a0d3fb70ad2e
+publicationDate: 2023-08-27
+influentialCitationCount: 0
+title: Assessing the utility of ChatGPT as an artificial intelligence-based large language model for information to answer questions on myopia.
+tldr: nan
+abstract: nan
+
+paperId: 6904e207c84ca854efad74fe65790d941a0385c0
+publicationDate: nan
+influentialCitationCount: 0
+title: GPT-4 as an Agronomist Assistant? Answering Agriculture Exams Using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 692e5501dbea66baa13342599c389f9cd8140a26
+publicationDate: nan
+influentialCitationCount: 0
+title: The method of constructing basic-element base using large language model- Take the issue of rice waste
+tldr: nan
+abstract: nan
+
+paperId: 6a1576d643317af35f00a56a0fdb8e2d59d4b254
+publicationDate: nan
+influentialCitationCount: 0
+title: Applying Pairwise Combinatorial Testing to Large Language Model Testing
+tldr: nan
+abstract: nan
+
+paperId: 6c1c0925f6cbed2d8078b3936dba436ba8fe62ac
+publicationDate: 2023-03-25
+influentialCitationCount: 0
+title: The developmental trajectories of L2 lexical-semantic networks
+tldr: nan
+abstract: nan
+
+paperId: 6c878555eff43cb5e817a34ceb0b9e65ce8e2c72
+publicationDate: 2023-01-16
+influentialCitationCount: 0
+title: Modelling individual and cross-cultural variation in the mapping of emotions to speech prosody
+tldr: nan
+abstract: nan
+
+paperId: 6cc440aa286abd3a4486fb56e03c7b8675bfb7ad
+publicationDate: nan
+influentialCitationCount: 0
+title: Detecting Artificially Generated Academic Text: The Importance of Mimicking Human Utilization of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 6ce81d6d0285432c415e10d51cda62956491e18c
+publicationDate: 2023-04-24
+influentialCitationCount: 1
+title: Drug discovery companies are customizing ChatGPT: here’s how
+tldr: nan
+abstract: nan
+
+paperId: 6f130cde30b91b5deaf5c57dc2b2b33c245ed79b
+publicationDate: nan
+influentialCitationCount: 0
+title: Comparing the Evaluation and Production of Loophole Behavior in Humans and Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 713375b86e8e083ef89b1e33fab3c12600b3f09a
+publicationDate: 2023-11-17
+influentialCitationCount: 0
+title: AuRo special issue on large language models in robotics guest editorial
+tldr: nan
+abstract: nan
+
+paperId: 7290f24b49d02d31382403fd21c0a7b282d8b70c
+publicationDate: 2023-08-24
+influentialCitationCount: 0
+title: Limitations of large language models in medical applications.
+tldr: nan
+abstract: nan
+
+paperId: 7331beecdf44d73cb0f4a11daf638396972b6350
+publicationDate: 2023-07-24
+influentialCitationCount: 0
+title: LLMs get a medical education
+tldr: nan
+abstract: nan
+
+paperId: 7430c52674105fa968fae3d8aa60758d27521c7e
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: ChatGPT and large language model (LLM) chatbots: Correspondence.
+tldr: nan
+abstract: nan
+
+paperId: 74de610dbd5ed4685fbe16b8a9b7474cf91a880d
+publicationDate: nan
+influentialCitationCount: 0
+title: Life Cycle Assessment for the Unconventional Construction Materials in Collaboration with a Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: 755248f0541eb3848d772ed06324a92a38a15ec2
+publicationDate: 2023-01-23
+influentialCitationCount: 0
+title: Improving mathematics assessment readability: Do large language models help?
+tldr: nan
+abstract: nan
+
+paperId: 7587da176a01852cf3df7836eb40b5f5dad2c1de
+publicationDate: 2023-09-19
+influentialCitationCount: 0
+title: Large language models in vitreoretinal surgery.
+tldr: nan
+abstract: nan
+
+paperId: 758c226ca22ce63135518570cc41fc65c68703a1
+publicationDate: 2023-04-28
+influentialCitationCount: 0
+title: Künstliche Intelligenz: Wie werden ChatGPT und andere KI-Anwendungen unseren ärztlichen Alltag verändern?
+tldr: nan
+abstract: nan
+
+paperId: 75b374b9fc891a958fd04a6b29a480e4f84927a2
+publicationDate: nan
+influentialCitationCount: 0
+title: Understanding Large Language Models: Learning Their Underlying Concepts and Technologies
+tldr: nan
+abstract: nan
+
+paperId: 7602d66a8722c4c53192359998e3ed217de21a6d
+publicationDate: 2023-04-01
+influentialCitationCount: 0
+title: Democratizing scientific and healthcare communication with large language models
+tldr: nan
+abstract: nan
+
+paperId: 760d6c7dbab3a11f2e5b25c153bc72b31e5bac1b
+publicationDate: nan
+influentialCitationCount: 0
+title: Artificial Intelligence Research in Business and Management: A Literature Review Leveraging Machine Learning and Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 774e51426757ef38286a3ad152513749e56d22dd
+publicationDate: 2023-08-30
+influentialCitationCount: 0
+title: Harnessing Large Language Models to Simulate Realistic Human Responses to Social Engineering Attacks: A Case Study
+tldr: nan
+abstract: nan
+
+paperId: 7856c369f013b2dcde3258eb1950098ad4e59fa2
+publicationDate: 2023-09-30
+influentialCitationCount: 0
+title: Framework Development Approach for Bias Assessment of AI-based Conversational Chatbot using Large-scale Language Model
+tldr: nan
+abstract: nan
+
+paperId: 794b3a8c63ca1340cdcc4d52661071ee03751187
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: THE POTENTIAL FOR LARGE LANGUAGE MODELS TO PERSONALIZE PATIENT ORIENTED CLINICAL INFORMATION TO RECOMMENDED READING LEVELS
+tldr: nan
+abstract: nan
+
+paperId: 7ae523db11d8aecd1fc3574e10d546d73bac0efa
+publicationDate: nan
+influentialCitationCount: 0
+title: PromptIE - Information Extraction with Prompt-Engineering and Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 7b792201f502bdac507be0d73735c74a679f8ffa
+publicationDate: nan
+influentialCitationCount: 0
+title: Towards Improved Scientific Knowledge Proliferation: Leveraging Large Language Models on the Traditional Scientific Writing Workflow
+tldr: nan
+abstract: nan
+
+paperId: 7bb059fc61baad7fd0129dac01e5d072bf478a3f
+publicationDate: 2023-06-12
+influentialCitationCount: 0
+title: ChatGPT on ECT: Can Large Language Models Support Psychoeducation?
+tldr: nan
+abstract: nan
+
+paperId: 7d213c4d5f322dbc77246213169ac83c95532cdc
+publicationDate: nan
+influentialCitationCount: 0
+title: Movie Keyword Search Using Large-Scale Language Model with User-Generated Rankings and Reviews
+tldr: nan
+abstract: nan
+
+paperId: 7dd93a408f3565597d8852aac5577c2db3b9d0d7
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Lower Energy Large Language Models (LLMs)
+tldr: nan
+abstract: nan
+
+paperId: 7e932d7b4c8ae6cb758fb0c0f1fabbbe8732997e
+publicationDate: nan
+influentialCitationCount: 0
+title: Deduction under Perturbed Evidence: Probing Student Simulation (Knowledge Tracing) Capabilities of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 7f976f21bb571941042906d964c6cb676c29decb
+publicationDate: 2023-11-27
+influentialCitationCount: 0
+title: Foundation and large language models: fundamentals, challenges, opportunities, and social impacts
+tldr: nan
+abstract: nan
+
+paperId: 80d3365e6c7c6e03cf9754c0996ec64468e9a58d
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Relevance of medical information obtained from ChatGPT: Are large language models friends or foes?
+tldr: nan
+abstract: nan
+
+paperId: 826dbb3cab8f04b041821e60106356ef89aa58bc
+publicationDate: 2023-10-19
+influentialCitationCount: 0
+title: A note to our authors: Histochemistry and Cell Biology implements guidelines for the use of large language models (including ChatGPT)
+tldr: nan
+abstract: nan
+
+paperId: 82e891efa66d9450ee51abebbafd254e23b16786
+publicationDate: 2023-11-03
+influentialCitationCount: 0
+title: Extracting narrative data via large language models for loan default prediction: when talk isn’t cheap
+tldr: nan
+abstract: nan
+
+paperId: 83209243280846b190f399468b7cf21f0ce2fe98
+publicationDate: 2023-05-05
+influentialCitationCount: 1
+title: A systematic review of research on speech-recognition chatbots for language learning: Implications for future directions in the era of large language models
+tldr: nan
+abstract: nan
+
+paperId: 83be30e4fcf1728d715e8eeb8d152faef4bf3648
+publicationDate: nan
+influentialCitationCount: 0
+title: Self-Criticism: Aligning Large Language Models with their Understanding of Helpfulness, Honesty, and Harmlessness
+tldr: nan
+abstract: nan
+
+paperId: 842cd4534b0787c3effed4b706bda8602809e68e
+publicationDate: nan
+influentialCitationCount: 0
+title: Whole Genome Sequencing-based digital twin as a clinical decision support system: in-born disease risks and pharmacogenomics with Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: 84a7845e4c34c56e30d7ba35ce15a9993af4a1f3
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Employing large language models in survey research
+tldr: nan
+abstract: nan
+
+paperId: 84d1594d906ef0f70b7c52ba6a81f41efc06a671
+publicationDate: 2023-07-10
+influentialCitationCount: 0
+title: Demonstrating Large Language Models on Robots
+tldr: nan
+abstract: nan
+
+paperId: 84ee70aa14eb2bf5a823180bfeee41e77726fdbc
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Understanding Radiological Journal Views and Policies on Large Language Models in Academic Writing.
+tldr: nan
+abstract: nan
+
+paperId: 8571b676e3fd165de9ca8724095fa313f43f986b
+publicationDate: nan
+influentialCitationCount: 0
+title: How to Learn and Teach Economics with Large Language Models, Including GPT
+tldr: nan
+abstract: nan
+
+paperId: 8576863e523e71237426629fca94da32f4d4b6c4
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Transferable adversarial distribution learning: Query-efficient adversarial attack against large language models
+tldr: nan
+abstract: nan
+
+paperId: 87538a3ca45cf2b54378260e6fbd7a8e61e1f6f5
+publicationDate: 2023-03-01
+influentialCitationCount: 0
+title: Will ChatGPT transform healthcare?
+tldr: nan
+abstract: nan
+
+paperId: 8808857f5eb3f37301418a09f1a54664873aba33
+publicationDate: nan
+influentialCitationCount: 0
+title: MiniChain: A Small Library for Coding with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 889dae7f3fb46723aab1dd8b5150bcd89aedbccb
+publicationDate: 2023-08-31
+influentialCitationCount: 0
+title: 3D Scene Graph Generation Using Prior Knowledge from Large Language Model (LLM)
+tldr: nan
+abstract: nan
+
+paperId: 88c26551e2d3b6354741fc4159d1730e865297a7
+publicationDate: 2023-11-13
+influentialCitationCount: 0
+title: Advances and Challenges in the Assessment of Executive Functions in Under 36 Months: a Scoping Review
+tldr: nan
+abstract: nan
+
+paperId: 894888ffa9bf479c23c64184c5ebc2ff9a648fdf
+publicationDate: 2023-11-13
+influentialCitationCount: 0
+title: Better models of human high-level visual cortex emerge from natural language supervision with a large and diverse dataset
+tldr: nan
+abstract: nan
+
+paperId: 8a03490ebd7acae2d274380966ec792dee69d2c3
+publicationDate: 2023-08-27
+influentialCitationCount: 0
+title: Moffett Antoum®: A Deep-Sparse AI Inference System-on-Chip for Vision and Large-language Models
+tldr: nan
+abstract: nan
+
+paperId: 8a1375377f16c8d298ac0193f49cfdc15d8cda9b
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Reply to Comment on Performance of a Generative Large Language Models on Ophthalmology Board Style Questions.
+tldr: nan
+abstract: nan
+
+paperId: 8b15720a05298536d90f86c2f5710278abbb502a
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Re: Michael Eppler, Conner Ganjavi, Lorenzo Storino Ramacciotti, et al. Awareness and Use of ChatGPT and Large Language Models: A Prospective Cross-sectional Global Survey in Urology. Eur Urol. In press. https://doi.org/10.1016/j.eururo.2023.10.014.
+tldr: nan
+abstract: nan
+
+paperId: 8b9931317016c8725733bdf22f5eb0628fd30c69
+publicationDate: nan
+influentialCitationCount: 0
+title: Proceedings of the Workshop on Enterprise Knowledge Graphs using Large Language Models (EKG-LLM 2023) co-located with 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), Birmingham, UK, October 22, 2023
+tldr: nan
+abstract: nan
+
+paperId: 8cf7d2e7a5a85334e86d719753aa044c3d6baae4
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Large language models and rheumatology: a comparative evaluation
+tldr: nan
+abstract: nan
+
+paperId: 8cfca763b87d3ee9ffdfe4e9e9c3db845970dae0
+publicationDate: nan
+influentialCitationCount: 0
+title: Revolutionizing Translation with AI: Unravelling Neural Machine Translation and Generative Pre-Trained Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 8d3f0b1ed48c6333da39473bdb439049052e25ad
+publicationDate: 2023-10-13
+influentialCitationCount: 0
+title: Global database of cement production assets and upstream suppliers
+tldr: nan
+abstract: nan
+
+paperId: 8daa323e48424d2439c1a9a4764aeb1e6c69fc6a
+publicationDate: nan
+influentialCitationCount: 0
+title: ChatGPT and Similar Generative Artificial Intelligence (AI) for Building and Construction Industry: Contribution, Opportunities and Challenges of Large Language Models for Industry 4.0, Industry 5.0, and Society 5.0
+tldr: nan
+abstract: nan
+
+paperId: 8e3e4c9da2a0b439bc1fecc4575c45354955e68c
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models and Generative AI in Finance: An Analysis of ChatGPT, Bard, and Bing AI
+tldr: nan
+abstract: nan
+
+paperId: 8ec14fd3a21b9e0724580eaf11d8511e1910fe6d
+publicationDate: nan
+influentialCitationCount: 0
+title: Text-Based Games as a Challenging Benchmark for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 8ee5a9f32771521301ba7996ab5f42a90b629e6a
+publicationDate: 2023-04-12
+influentialCitationCount: 0
+title: How I use ChatGPT responsibly in my teaching
+tldr: nan
+abstract: nan
+
+paperId: 8f732443ee8902059517f7aec166f2ca70de736a
+publicationDate: 2023-11-13
+influentialCitationCount: 0
+title: Anwendungen künstlicher Intelligenz in der Onkologie: Möglichkeiten, Machbarkeit und regulatorische Herausforderungen
+tldr: nan
+abstract: nan
+
+paperId: 8fc7b699aef50fb6346ac1c0ea0169bb86704dca
+publicationDate: 2023-08-23
+influentialCitationCount: 0
+title: Medical Applications of Artificial Intelligence and Large Language Models: Bibliometric Analysis and Stern Call for Improved Publishing Practices.
+tldr: nan
+abstract: nan
+
+paperId: 90b1b35190dcf1994b3b9d81572fe5d351f1b1eb
+publicationDate: 2023-08-31
+influentialCitationCount: 0
+title: Application of Large Language Models Such as ChatGPT for Arts and Cultural Management
+tldr: nan
+abstract: nan
+
+paperId: 90cef80b501da70d3ea80e139e39d36450b0fb96
+publicationDate: nan
+influentialCitationCount: 0
+title: The Unseen A+ Student: Evaluating the Performance and Detectability of Large Language Models in High School Assignments
+tldr: nan
+abstract: nan
+
+paperId: 90d4f304ed91b208110f48622603b3b06ea29e16
+publicationDate: nan
+influentialCitationCount: 0
+title: Using a Large Language Model for Accounting Topic Classification
+tldr: nan
+abstract: nan
+
+paperId: 914179fe6559298f6c28a6d1cf4af7e633c1aa29
+publicationDate: nan
+influentialCitationCount: 0
+title: Exploring Pre-Service Teachers' Perceptions of Large Language Models-Generated Hints in Online Mathematics Learning
+tldr: nan
+abstract: nan
+
+paperId: 9199a0e0c02fc68af1abb6a8f1677017d9ac8b05
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Preliminary Fatty Liver Disease Grading Using General-Purpose Online Large Language Models: ChatGPT-4 or Bard?
+tldr: nan
+abstract: nan
+
+paperId: 91c615797424bb289b9a9147b66895d05e8b02a4
+publicationDate: 2023-12-22
+influentialCitationCount: 0
+title: COMPARISON OF HUMAN AND MODERN LARGE LANGUAGE MODELS THINKING
+tldr: nan
+abstract: nan
+
+paperId: 920d3e8648215525388fd9abfe18d4236f16b42b
+publicationDate: nan
+influentialCitationCount: 0
+title: On the Impact of Language Adaptation for Large Language Models: A Case Study for the Italian Language Using Only Open Resources
+tldr: nan
+abstract: nan
+
+paperId: 9259b91cbccd305280891fa7690ba596b4213893
+publicationDate: 2023-12-06
+influentialCitationCount: 0
+title: Doctor versus AI: Patient and physician evaluation of large language model responses to rheumatology patient questions: comment.
+tldr: nan
+abstract: nan
+
+paperId: 929eb59e5192e10ead7f2d3dd59ef038a8030b49
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Model in Creative Work: The Role of Collaboration Modality and User Expertise
+tldr: nan
+abstract: nan
+
+paperId: 92cb20c11684d368980af4cedd62e6827aa921d3
+publicationDate: 2023-06-19
+influentialCitationCount: 1
+title: Artificial scholarship: LLMs in health professions education research
+tldr: nan
+abstract: nan
+
+paperId: 93147812b9d21e26baf9fca1c12f4b299ad2afc7
+publicationDate: 2023-09-13
+influentialCitationCount: 0
+title: Opportunities for the use of large language models in hepatology.
+tldr: nan
+abstract: nan
+
+paperId: 93fadc4e2e5151c6dc91e01d98ee144fe4d7d5c8
+publicationDate: 2023-12-31
+influentialCitationCount: 0
+title: Large language models: What could they do for neurology?
+tldr: nan
+abstract: nan
+
+paperId: 94b1fe4e61cedf5a5e4f26d87587b791e1669b9c
+publicationDate: 2023-12-22
+influentialCitationCount: 0
+title: Large language models as a source of health information: Are they patient-centered? A longitudinal analysis.
+tldr: nan
+abstract: nan
+
+paperId: 9543520e87ab93ae026a9d58cce8cee175ee892d
+publicationDate: nan
+influentialCitationCount: 0
+title: Generative Large Language Models for Dialog-Based Tutoring: An Early Consideration of Opportunities and Concerns
+tldr: nan
+abstract: nan
+
+paperId: 957f528331b562cf60fdbbc7fb409c66485e0ccc
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Large Language Models in Uro-oncology.
+tldr: nan
+abstract: nan
+
+paperId: 95840ec08ba2e30490ee02fd0518bbfc0e8a0f4c
+publicationDate: nan
+influentialCitationCount: 0
+title: Prompt Engineering for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 98480fd4350e063009599cf33ea284ccd1f4bcf3
+publicationDate: nan
+influentialCitationCount: 0
+title: Shaping Learning Experience Design Using Large Language Models (LLMs)
+tldr: nan
+abstract: nan
+
+paperId: 988cea5144259e27466ae839a0a4f8efdf4c1183
+publicationDate: 2023-04-01
+influentialCitationCount: 0
+title: Ethics of large language models in medicine and medical research.
+tldr: nan
+abstract: nan
+
+paperId: 98d6f2fc917a5e0a703d0f07740928c628022596
+publicationDate: nan
+influentialCitationCount: 0
+title: Koya: A Recommender System for Large Language Model Selection
+tldr: nan
+abstract: nan
+
+paperId: 98d9599c6ca1fa8269b13e45d6f7340308dc1c43
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: LLMs are not ready for editorial work
+tldr: nan
+abstract: nan
+
+paperId: 98e2168f8d08a3e082a6e249d0cdac32070343ab
+publicationDate: 2023-11-07
+influentialCitationCount: 0
+title: Genomic formation of Tibeto-Burman speaking populations in Guizhou, Southwest China
+tldr: nan
+abstract: nan
+
+paperId: 99b880398677a04c5442d5afb38d8b68d65151b9
+publicationDate: nan
+influentialCitationCount: 0
+title: Investigating Table-to-Text Generation Capabilities of Large Language Models in Real-World Information Seeking Scenarios
+tldr: nan
+abstract: nan
+
+paperId: 9b9cad0bc8e82dabae59fd8989ad6bc1394f3d3a
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: P1 Automating Economic Modelling: A Case Study of AI's Potential With Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: 9bfa64a0721e4ea7c6f7a04cf4dfd74c17594cd0
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: ChatGPT effects on cognitive skills of undergraduate students: Receiving instant responses from AI-based conversational large language models (LLMs)
+tldr: nan
+abstract: nan
+
+paperId: 9ca11e50e0bed509ceeb839d84485b6ca67cdc57
+publicationDate: nan
+influentialCitationCount: 0
+title: A Closer Look into Using Large Language Models for Automatic Evaluation
+tldr: nan
+abstract: nan
+
+paperId: 9d207a9788240f0cf3a13032556770eca890ada7
+publicationDate: nan
+influentialCitationCount: 0
+title: Using Local Large Language Models to Simplify Requirement Engineering Documents in the Automotive Industry
+tldr: nan
+abstract: nan
+
+paperId: 9d8f79d0b72e0982c1177bb9758a6c4b641fa5bb
+publicationDate: nan
+influentialCitationCount: 0
+title: R³ Prompting: Review, Rephrase and Resolve for Chain-of-Thought Reasoning in Large Language Models under Noisy Context
+tldr: nan
+abstract: nan
+
+paperId: 9d9b09ccea337f3442399ca5ed43e78a1205b777
+publicationDate: 2023-12-14
+influentialCitationCount: 0
+title: 1362: UTILIZING LARGE LANGUAGE MODELS FOR DISEASE PHENOTYPING IN OBSTRUCTIVE SLEEP APNEA
+tldr: nan
+abstract: nan
+
+paperId: 9ef2bf7e94bd3d82bdfd8d22206da5f920faed66
+publicationDate: nan
+influentialCitationCount: 0
+title: Proactive Continuous Operations using Large Language Models (LLMs) and AIOps
+tldr: nan
+abstract: nan
+
+paperId: 9f5e007abf5d9227e49219d5b066fe8bb869f6d1
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Best practices for implementing ChatGPT, large language models, and artificial intelligence in qualitative and survey-based research
+tldr: nan
+abstract: nan
+
+paperId: a08085cc8d3e1324832702d6c719c0d0a8f14685
+publicationDate: nan
+influentialCitationCount: 0
+title: Double Impact: Children's Serious RPG Generation/Play with a Large Language Model for Their Deeper Engagement in Social Issues
+tldr: nan
+abstract: nan
+
+paperId: a0a3d3349497782861ecc436c3807bfe1a7d90a1
+publicationDate: 2023-10-18
+influentialCitationCount: 1
+title: Prompting Change: Exploring Prompt Engineering in Large Language Model AI and Its Potential to Transform Education
+tldr: nan
+abstract: nan
+
+paperId: a15b787d5a754337c34663b6cee991ac85096b7c
+publicationDate: 2023-08-03
+influentialCitationCount: 0
+title: Large Language Models and Psychoeducation: Correspondence.
+tldr: nan
+abstract: nan
+
+paperId: a1ae606a2c58cd1851652e533f5591924f38a26f
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Évaluation de l’impact des large language learning models sur les articles soumis à Orthopedics & Traumatology: Surgery & Research (OTSR) : une augmentation significative de l’utilisation de l’intelligence artificielle en 2023
+tldr: nan
+abstract: nan
+
+paperId: a24b574620f5710fa67e891214705fd0b1f79bd3
+publicationDate: 2023-10-27
+influentialCitationCount: 0
+title: Advancing AI in rheumatology: critical reflections and proposals for future research using large language models.
+tldr: nan
+abstract: nan
+
+paperId: a323610c559db0e8d483e4b599a8cd802e8c0a1a
+publicationDate: nan
+influentialCitationCount: 0
+title: Towards large language model-based personal agents in the enterprise: Current trends and open problems
+tldr: nan
+abstract: nan
+
+paperId: a37320a527078e17f397aeccb7f6eb1b888c2c48
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models are Prone to Methodological Artifacts
+tldr: nan
+abstract: nan
+
+paperId: a4062430e157b15946eb3bec849e8303b13fae83
+publicationDate: nan
+influentialCitationCount: 0
+title: The Power of Large Language Models: A ChatGPT-driven Textual Analysis of Fundamental Data
+tldr: nan
+abstract: nan
+
+paperId: a4d30f1d3c518310229af88ce85af9c6f02589b4
+publicationDate: nan
+influentialCitationCount: 0
+title: Efficient Fine-Tuning Large Language Models for Knowledge-Aware Response Planning
+tldr: nan
+abstract: nan
+
+paperId: a56843068645c5333b00205b32b9adf4f89eef99
+publicationDate: nan
+influentialCitationCount: 0
+title: Defeasible Reasoning with Large Language Models - Initial Experiments and Future Directions
+tldr: nan
+abstract: nan
+
+paperId: a6a48900de1da2d1a51b1a7d566c01c75977852b
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: ChatGPT broke the Turing test — the race is on for new ways to assess AI
+tldr: nan
+abstract: nan
+
+paperId: a700398517afd47e03a2c324021d07c831c973b2
+publicationDate: 2023-09-11
+influentialCitationCount: 0
+title: Editorial: Harnessing the Power of Large Language Model-Based Chatbots for Scientific Discovery
+tldr: nan
+abstract: nan
+
+paperId: a70553b686f6337d592717e01a689892d1c05d07
+publicationDate: 2023-02-02
+influentialCitationCount: 0
+title: Positive Parenting and Early Childhood Cognition: A Systematic Review and Meta-Analysis of Randomized Controlled Trials
+tldr: nan
+abstract: nan
+
+paperId: a7b5321ecb8dd79b45e61dde9ca328b6129cc90b
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Response to Comment for "Understanding Radiological Journal Views and Policies on Large Language Models in Academic Writing ".
+tldr: nan
+abstract: nan
+
+paperId: a874de9b23defe2fdae67e87638d402b6b57ef66
+publicationDate: 2023-08-29
+influentialCitationCount: 0
+title: An eye-tracking-with-EEG coregistration corpus of narrative sentences
+tldr: nan
+abstract: nan
+
+paperId: a8aacc3edc3c9a78c77f0e0f39c3b038b96e6dd8
+publicationDate: nan
+influentialCitationCount: 0
+title: “How many electricians are needed to change a lightbulb?” Matching the large language model to the task at hand.
+tldr: nan
+abstract: nan
+
+paperId: a9a173da1fa3cea22c7851fea14f55c7acf0f13e
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Large language models (LLMs) in the evaluation of emergency radiology reports: performance of ChatGPT-4, Perplexity, and Bard.
+tldr: nan
+abstract: nan
+
+paperId: a9edc14b4a67eb1dda2bcdcd5aa9761640434f40
+publicationDate: nan
+influentialCitationCount: 0
+title: Generating Natural Language Dialogues Using Large Language Models with Adapters
+tldr: nan
+abstract: nan
+
+paperId: aaddeab27cdfde98a1d5f8ced61da543d01fa768
+publicationDate: 2023-04-28
+influentialCitationCount: 0
+title: How Chatbots and Large Language Model Artificial Intelligence Systems Will Reshape Modern Medicine: Fountain of Creativity or Pandora's Box?
+tldr: nan
+abstract: nan
+
+paperId: ab850bd68a34e8c68774faf12975799287c1dfeb
+publicationDate: nan
+influentialCitationCount: 0
+title: Improving Subgraph Extraction Algorihtms for One-Shot SPARQL Query Generation with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: ab9f01d545431a323b5a1772009018ffd16cc9a1
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models Reasoning and Reinforcement Learning
+tldr: nan
+abstract: nan
+
+paperId: ac90cc1046623a8fcfcb910c7d5abe853897f103
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Guidelines for Use of Large Language Models by Authors, Reviewers, and Editors: Considerations for Imaging Journals.
+tldr: nan
+abstract: nan
+
+paperId: acd9ee5b71e5fa226cb0f3e876d1376b988372f6
+publicationDate: 2023-07-04
+influentialCitationCount: 0
+title: Large Language Models in Orthopaedic Trauma: A Cutting-Edge Technology to Enhance the Field.
+tldr: nan
+abstract: nan
+
+paperId: ad4137ccc205cbeb7a2a964518db5bc5fbefad83
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Analysis of CBDC narrative by central banks using large language models
+tldr: nan
+abstract: nan
+
+paperId: ad7e0ce9e54dd487119ee738efb156b28f37e7e0
+publicationDate: 2023-08-08
+influentialCitationCount: 0
+title: Orthography-phonology consistency in English: Theory- and data-driven measures and their impact on auditory vs. visual word recognition.
+tldr: nan
+abstract: nan
+
+paperId: ae0e6ca7f8f96a3aecc007d2c8ec11c1f130bb2f
+publicationDate: 2023-12-26
+influentialCitationCount: 0
+title: The ambiguity of BERTology: what do large language models represent?
+tldr: nan
+abstract: nan
+
+paperId: aeb92e055c17ddb9a42b356b9d9cb1015040d0cc
+publicationDate: nan
+influentialCitationCount: 0
+title: Proposals and Methods for Foreign Language Learning Using Machine Translation and Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: aee0815b692326fe9857b05cfcf0cc3fdca2f526
+publicationDate: 2023-04-01
+influentialCitationCount: 0
+title: First Peoples’ knowledge leads scientists to reveal ‘fairy circles’ and termite linyji are linked in Australia
+tldr: nan
+abstract: nan
+
+paperId: afaad5ebbf8f037ada4d068eb2e804be08abeccb
+publicationDate: nan
+influentialCitationCount: 0
+title: Privacy-Preserving Large Language Models (PPLLMs)
+tldr: nan
+abstract: nan
+
+paperId: afd1ea67432bd4857b789391072ec81162872151
+publicationDate: nan
+influentialCitationCount: 0
+title: Development of Character-like Chatbot with Role Play-Based Question Answering and a Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: b02d2549bc593bb68e5a6a871058e804291df9c6
+publicationDate: nan
+influentialCitationCount: 0
+title: Analyzing Declarative Deployment Code with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: b0428bee60a29ec586d1c91a627f9307c1550e26
+publicationDate: 2023-11-17
+influentialCitationCount: 0
+title: Evaluating the Carbon Impact of Large Language Models at the Inference Stage
+tldr: nan
+abstract: nan
+
+paperId: b0b7e24d0284502390456d20c195063c09768228
+publicationDate: 2023-07-18
+influentialCitationCount: 0
+title: Letter to the Editor: ChatGPT's contribution to cancer study.
+tldr: nan
+abstract: nan
+
+paperId: b0eeb1eb94834d7aec826a53b7ee2a05ff96b069
+publicationDate: nan
+influentialCitationCount: 0
+title: Disfluent Cues for Enhanced Speech Understanding in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: b1be689e78a036c78cf03b220e77460e250e000e
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Would Uro_Chat, a Newly Developed Generative Artificial Intelligence Large Language Model, Have Successfully Passed the In-Service Assessment Questions of the European Board of Urology in 2022?
+tldr: nan
+abstract: nan
+
+paperId: b23b4f95e418b4b420da6a12b7ef15e68d280492
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Exploring the capabilities of Large Language Models such as ChatGPT in radiation oncology
+tldr: nan
+abstract: nan
+
+paperId: b23c7b42a47856a85909337cdcd6e496c2e1acd7
+publicationDate: nan
+influentialCitationCount: 0
+title: Answering Clean Tech Questions with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: b279bde3ef37b0c87423708d8b929b29d88bd69f
+publicationDate: 2023-09-03
+influentialCitationCount: 0
+title: Large language models and structured reporting: never stop chasing critical thinking
+tldr: nan
+abstract: nan
+
+paperId: b2c70ea93e57694b305841ac99f4ec7e549bdd4f
+publicationDate: 2023-09-27
+influentialCitationCount: 0
+title: Capabilities and limitations of large language models in critical care nursing research: Examples from the big three.
+tldr: nan
+abstract: nan
+
+paperId: b44730fa51b70e76f7ae72627af69e13797f6a84
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models and NER: better results with less work
+tldr: nan
+abstract: nan
+
+paperId: b512c529446f94b4a0855c51233f391a78ec3e9f
+publicationDate: 2023-01-01
+influentialCitationCount: 0
+title: Evaluation of OpenAI's large language model as a new tool for writing papers in the field of thrombosis and hemostasis.
+tldr: nan
+abstract: nan
+
+paperId: b6afe499e2e11480baac19eed5dbfc88dda28859
+publicationDate: 2023-02-22
+influentialCitationCount: 0
+title: ChatGPT in Surgical Practice—a New Kid on the Block
+tldr: nan
+abstract: nan
+
+paperId: b8375ec5d977ed9495b7ee794ec6532a9ac7fcd0
+publicationDate: 2023-04-24
+influentialCitationCount: 0
+title: The unique contribution of handwriting accuracy to literacy skills in Japanese adolescents
+tldr: nan
+abstract: nan
+
+paperId: b898fd821a176cbfb1c29573d72dbf8026d37ed3
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: The Opportunities and Challenges of Large Language Models in Cardiology
+tldr: nan
+abstract: nan
+
+paperId: b94136c9eab2aa1a56f47f9b50b7a0a95b2607ab
+publicationDate: nan
+influentialCitationCount: 0
+title: The Problem of Concept Learning and Goals of Reasoning in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: b98f2fc295f436e40dc514fcf21591cea27dbba7
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models for Code Obfuscation Evaluation of the Obfuscation Capabilities of OpenAI's GPT-3.5 on C Source Code
+tldr: nan
+abstract: nan
+
+paperId: b9f528b90ab2e535921a3ba8390af00d77c61443
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Performance of Three Large Language Models on Dermatology Board Examinations.
+tldr: nan
+abstract: nan
+
+paperId: bb6c7f3ebcc7d6113d2848b1ff0630bf5fa465f7
+publicationDate: 2023-10-19
+influentialCitationCount: 0
+title: Integrating Prior Knowledge from Meta-Learning and Large Language Models for Cold-Start Recommendation
+tldr: nan
+abstract: nan
+
+paperId: bc763420af621584db59f359d9aab59b4a4ae26d
+publicationDate: 2023-09-11
+influentialCitationCount: 0
+title: When linguistic dogma rejects a neuroscientific hypothesis
+tldr: nan
+abstract: nan
+
+paperId: bca44a53d9becd158ee0abf34c4255375fdc7327
+publicationDate: nan
+influentialCitationCount: 0
+title: Hallucination Detection for Generative Large Language Models by Bayesian Sequential Estimation
+tldr: nan
+abstract: nan
+
+paperId: bd1d5b21f6a7842a6aa5138bbf4049336a2aa568
+publicationDate: nan
+influentialCitationCount: 0
+title: A Framework for the Evaluation of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: bd3e00426fbf99cbbe9c8b492c18b2140a920508
+publicationDate: 2023-12-21
+influentialCitationCount: 0
+title: Large language models for qualitative research in software engineering: exploring opportunities and challenges
+tldr: nan
+abstract: nan
+
+paperId: bd6d89e4cc299a3229c8ab92b4d9eaa7fc707d41
+publicationDate: nan
+influentialCitationCount: 0
+title: Cost-effective Distillation of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: bdfbd26d0e7ff19830d760f776d39dd88cc7dd09
+publicationDate: nan
+influentialCitationCount: 0
+title: Towards Hybrid Architectures: Integrating Large Language Models in Informative Chatbots
+tldr: nan
+abstract: nan
+
+paperId: be97277a8a43465f2bca27c681946e8a72612920
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models and Financial Market Sentiment
+tldr: nan
+abstract: nan
+
+paperId: bf86335e3351d041213563618dcb5e9426fe90c6
+publicationDate: nan
+influentialCitationCount: 0
+title: Explainable Integration of Knowledge Graphs Using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: bfa0edc24904beda454038cb738ea4ed6ad5fc7c
+publicationDate: nan
+influentialCitationCount: 0
+title: Towards Automatic Evaluation of NLG Tasks Using Conversational Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: bfa3289db6b560907d344023ff57284f9c6df0a0
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding
+tldr: nan
+abstract: nan
+
+paperId: c005c7de3edcc1e317933d9fefc302db0e72742e
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Evaluating the Progression of Artificial Intelligence and Large Language Models in Medicine through Comparative Analysis of ChatGPT-3.5 and ChatGPT-4 in Generating Vascular Surgery Recommendations
+tldr: nan
+abstract: nan
+
+paperId: c06553143c894f16950df659eb59e13ff18758f3
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Large language models direct automated chemistry laboratory.
+tldr: nan
+abstract: nan
+
+paperId: c0ea3b30737ff3c280430128e3f2b749341ac5dc
+publicationDate: nan
+influentialCitationCount: 0
+title: A Large Language Model Framework to Uncover Underreporting in Traffic Crashes
+tldr: nan
+abstract: nan
+
+paperId: c11a09e918e854432ce7ceee3ade34f9288952d1
+publicationDate: 2023-10-05
+influentialCitationCount: 0
+title: How to use large language models in ophthalmology: from prompt engineering to protecting confidentiality.
+tldr: nan
+abstract: nan
+
+paperId: c14695556e08c1d27e1c76293061745b0c9594ec
+publicationDate: nan
+influentialCitationCount: 0
+title: ADARMA Auto-Detection and Auto-Remediation of Microservice Anomalies by Leveraging Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: c15664632021a49e8f78660ddfaafde07f2fd0c5
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models and the Future of Law
+tldr: nan
+abstract: nan
+
+paperId: c15f380577ecc90562379b077ea1891a596689d5
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Comparative efficacy of ChatGPT 3.5, ChatGPT 4, and other large language models (LLMs) in gynecology and infertility research
+tldr: nan
+abstract: nan
+
+paperId: c29a8bbc5fca651bed7cc080d02bb3766146137d
+publicationDate: nan
+influentialCitationCount: 0
+title: Task-Level Thinking Steps Help Large Language Models for Challenging Classification Task
+tldr: nan
+abstract: nan
+
+paperId: c46dea67c76f289341ecb709f1cefde7acc05e35
+publicationDate: nan
+influentialCitationCount: 0
+title: Enhancing Large Language Models with Knowledge Graphs for Classification Tasks in the Tourism Domain
+tldr: nan
+abstract: nan
+
+paperId: c4bafcbdcf5459ff20e600af21d927d5f32835c0
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Evolving Landscape of Large Language Models: An Evaluation of ChatGPT and Bard in Answering Patient Queries on Colonoscopy.
+tldr: nan
+abstract: nan
+
+paperId: c5f42df8cf5daec6cac10977dbe872a890fb630b
+publicationDate: 2023-04-27
+influentialCitationCount: 0
+title: Exploring the Research Agenda for Large Language Models: Opportunities and Challenges for Scientific Research
+tldr: nan
+abstract: nan
+
+paperId: c707dfb9ca150de079d219b6aa0fdd3102e4b8a7
+publicationDate: 2023-07-18
+influentialCitationCount: 0
+title: Response to letter to the Editor re ChatGPT and large language model (LLM) chatbots: The current state of acceptability and a proposal for guidelines on utilization in academic medicine.
+tldr: nan
+abstract: nan
+
+paperId: c776b6b4e9b8408418678e136a0c0775ed3fa6c6
+publicationDate: nan
+influentialCitationCount: 0
+title: Large Language Models for in Situ Knowledge Documentation and Access With Augmented Reality
+tldr: nan
+abstract: nan
+
+paperId: c841fff83a41fbf4cd147cf48c70b6a0d4348f7b
+publicationDate: 2023-10-30
+influentialCitationCount: 0
+title: Augmenting Intelligent Document Processing (IDP) Workflows with Contemporary Large Language Models (LLMs)
+tldr: nan
+abstract: nan
+
+paperId: c84a1be410f08416eaa87fb1ad90ddbc69cecf1c
+publicationDate: 2023-08-17
+influentialCitationCount: 0
+title: The revolutionary impact of chatGPT: advances in biomedicine and redefining healthcare with large language models
+tldr: nan
+abstract: nan
+
+paperId: c876fc25bab1e56ba59e7058b184ebca98f24db2
+publicationDate: nan
+influentialCitationCount: 0
+title: Contextualized Sentiment Analysis using Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: c877bf0a0f5fb36b2f3b0a2c648352f14c29f90a
+publicationDate: 2023-09-01
+influentialCitationCount: 0
+title: Leveraging Large Language Models to Improve Triage Accuracy in Emergency Departments.
+tldr: nan
+abstract: nan
+
+paperId: c87c894e8bb205c1d065544ccb2a0fca8ce81d9b
+publicationDate: 2023-08-03
+influentialCitationCount: 0
+title: Editorial for special issue on “advanced topics in document analysis and recognition”
+tldr: nan
+abstract: nan
+
+paperId: c88b23fafa51a7f8948e7bf39940b093bf4db416
+publicationDate: nan
+influentialCitationCount: 0
+title: LEVERAGING LARGE LANGUAGE MODELS FOR SEDIMENTARY ENVIRONMENTAL INTERPRETATION: A NEW APPROACH TO ADDRESSING THE NON-UNIQUENESS PROBLEM IN PALEOGEOGRAPHY
+tldr: nan
+abstract: nan
+
+paperId: c984da7a7689948294693f2f8345f15528b26923
+publicationDate: 2023-07-31
+influentialCitationCount: 0
+title: ChatGPT and the potential growing of ghost bibliographic references
+tldr: nan
+abstract: nan
+
+paperId: c9c86fd7f960f7b5cbfbceea420469babff162eb
+publicationDate: 2023-12-06
+influentialCitationCount: 0
+title: Keeping Humans in the Equation: Evaluation Metrics of Large Language Models.
+tldr: nan
+abstract: nan
+
+paperId: cace9fb01e5a44bb28cb6638788b9d763f0cd084
+publicationDate: nan
+influentialCitationCount: 0
+title: ChatGPT and Large Language Models: What are the Implications for Policy Makers?
+tldr: nan
+abstract: nan
+
+paperId: cafe1d7d1d7fefc96140f923f95c0e56a70f33de
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Large language models in anaesthesiology: use of ChatGPT for American Society of Anesthesiologists physical status classification.
+tldr: nan
+abstract: nan
+
+paperId: cb0335107f12d331ace2cbf220eb3c7bdcf653c5
+publicationDate: nan
+influentialCitationCount: 0
+title: Mitigating Societal Harms in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: cb1ebd241fcdb3de4f16f2b59313c54ab841667a
+publicationDate: nan
+influentialCitationCount: 0
+title: Comparative Study of Large Language Models as Emotion and Sentiment Analysis Systems: A Case-Specific Analysis of GPT vs. IBM Watson
+tldr: nan
+abstract: nan
+
+paperId: cb55f821273cc3210b577857429f1ed0e08299af
+publicationDate: nan
+influentialCitationCount: 0
+title: Applications of Large Language Models (LLMs) in Business Analytics - Exemplary Use Cases in Data Preparation Tasks
+tldr: nan
+abstract: nan
+
+paperId: cb9cf36043c849b890daf7d461746f8c88e7f217
+publicationDate: 2023-10-20
+influentialCitationCount: 0
+title: Exploring the potential of using ChatGPT in physics education
+tldr: nan
+abstract: nan
+
+paperId: cc4a8f49f6d5440332db2e1b8c6317344543d50c
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: Revolutionizing patient safety with artificial intelligence: the potential of natural language processing and large language models.
+tldr: nan
+abstract: nan
+
+paperId: cd1dee79097b8558590035d8c5cd1c6684cb4d20
+publicationDate: 2023-07-17
+influentialCitationCount: 0
+title: Assessing GPT-4’s role as a co-collaborator in scientific research: a case study analyzing Einstein’s special theory of relativity
+tldr: nan
+abstract: nan
+
+paperId: cd875b3b36a013584a5ae376e0b9e54bf89a5d55
+publicationDate: nan
+influentialCitationCount: 0
+title: IoT Software Vulnerability Detection Techniques through Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: ce3d9759b545da143ad564b6ef5c5e92bc2c478e
+publicationDate: 2023-07-10
+influentialCitationCount: 0
+title: Editorial - The Use of Large Language Models in Science: Opportunities and Challenges.
+tldr: nan
+abstract: nan
+
+paperId: ce8439cb5b55616a9cd23ba1fccda7db23eb85e6
+publicationDate: nan
+influentialCitationCount: 0
+title: Exploring how well Large-scale Masked Language Models can Recognize Grammatical Errors
+tldr: nan
+abstract: nan
+
+paperId: cec45e12b93439d8bcaf67223294b412b2f2a0a9
+publicationDate: 2023-11-30
+influentialCitationCount: 0
+title: Six ways large language models are changing healthcare
+tldr: nan
+abstract: nan
+
+paperId: cf2d8886def9e199b348499bc5c26775da3eb291
+publicationDate: nan
+influentialCitationCount: 0
+title: ExtremITA at EVALITA 2023: Multi-Task Sustainable Scaling to Large Language Models at its Extreme
+tldr: nan
+abstract: nan
+
+paperId: cf2d8ae2dabb2db870060a5fd1885686d112af67
+publicationDate: 2023-08-18
+influentialCitationCount: 0
+title: Comment on: AI am a rheumatologist: a practical primer to large language models for rheumatologists.
+tldr: nan
+abstract: nan
+
+paperId: cf98c1550291cd80d2b03f05f8b2f6030efb1c46
+publicationDate: 2023-07-01
+influentialCitationCount: 0
+title: A Critical Perspective on Large Language Model to Obtain Clinical Information about Fertility Research.
+tldr: nan
+abstract: nan
+
+paperId: d030c66774fb085db9521d0666f53eabcfa3b290
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Towards AI-assisted cardiology: a reflection on the performance and limitations of using large language models in clinical decision-making.
+tldr: nan
+abstract: nan
+
+paperId: d100a0a160e7c58a434b96b61d0477259dbff4a4
+publicationDate: 2023-06-01
+influentialCitationCount: 0
+title: A Framework for Critically Assessing ChatGPT and Other Large Language Artificial Intelligence Model Applications in Health Care
+tldr: nan
+abstract: nan
+
+paperId: d248a550f49da269af0db1e9b8e7886b7cd30593
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Can We Use Large Language Models for the Use of Contrast Media in Radiology?
+tldr: nan
+abstract: nan
+
+paperId: d3a7db11c4f9871f161c8017e89fad804c7a33da
+publicationDate: nan
+influentialCitationCount: 0
+title: Investigating Gender Bias in Large Language Models for the Italian Language
+tldr: nan
+abstract: nan
+
+paperId: d42e04e2650b85495aa695a90aaf437b5ad90516
+publicationDate: nan
+influentialCitationCount: 0
+title: INFORM : Information eNtropy based multi-step reasoning FOR large language Models
+tldr: nan
+abstract: nan
+
+paperId: d4579ad8247da88fcb3cce8adaa7d2f3477e5828
+publicationDate: 2023-07-27
+influentialCitationCount: 0
+title: Radiology, structured reporting and large language models: who is running faster?
+tldr: nan
+abstract: nan
+
+paperId: d490f1936fe0aa88887e00b602e4b81d391194b2
+publicationDate: 2023-10-24
+influentialCitationCount: 0
+title: A question answering system for assembly process of wind turbines based on multi-modal knowledge graph and large language model
+tldr: nan
+abstract: nan
+
+paperId: d585fa29c5992e5138717da42216f8eabb87cd94
+publicationDate: nan
+influentialCitationCount: 0
+title: Playing Story Creation Games with Large Language Models: Experiments with GPT-3.5
+tldr: nan
+abstract: nan
+
+paperId: d5ad1360d24ee9608fbd3b58648e3e85001e9cad
+publicationDate: 2023-05-01
+influentialCitationCount: 0
+title: The dangers of using large language models for peer review.
+tldr: nan
+abstract: nan
+
+paperId: d5fd671f666b6ca4ef07df2873411ceee34b18e9
+publicationDate: 2023-09-27
+influentialCitationCount: 0
+title: What’s the best chatbot for me? Researchers put LLMs through their paces
+tldr: nan
+abstract: nan
+
+paperId: d65c6e7bfe1f0cdd44349c639d9f8b413232f8d2
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Centering health equity in large language model deployment
+tldr: nan
+abstract: nan
+
+paperId: d764a010ee57dff5b1b83d32d06669c68dbc160c
+publicationDate: 2023-03-31
+influentialCitationCount: 0
+title: AI Dialogue Interface based on Large Language Models － The state of the art AI dialogue models and seeking linguistic research topics －
+tldr: nan
+abstract: nan
+
+paperId: d7f5ade3dbb58e8faf0c9fa9a37743d20608738d
+publicationDate: 2023-12-13
+influentialCitationCount: 0
+title: Assessment of the bias of artificial intelligence generated images and large language models on their depiction of a surgeon.
+tldr: nan
+abstract: nan
+
+paperId: d8e786d0874713d155d6d81e37f29e676a215d64
+publicationDate: 2023-09-13
+influentialCitationCount: 0
+title: The Role of Large Language Models in Radiology Reporting.
+tldr: nan
+abstract: nan
+
+paperId: d98661d70c9dc34f0bfb71b5b18041c3a3defecc
+publicationDate: 2023-06-23
+influentialCitationCount: 0
+title: Sugarbaker Versus Keyhole Repair for Parastomal Hernia: Results of an Artificial Intelligence Large Language Model Post Hoc Analysis
+tldr: nan
+abstract: nan
+
+paperId: d99628d20eb0122028339b5d4e798a90605e46c2
+publicationDate: nan
+influentialCitationCount: 0
+title: Ten Simple Rules for Crafting Effective Prompts for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: dabd54018abbaa5503834c680010910057387e7c
+publicationDate: nan
+influentialCitationCount: 0
+title: DEFALAC: Automatic Detection and Generation of Fallacies Using Large Language Models Based on Deep Learning
+tldr: nan
+abstract: nan
+
+paperId: db16eca9b6dde0e20786b73adb4504fa01a30ed9
+publicationDate: 2023-07-03
+influentialCitationCount: 0
+title: If text recycling refers to self-plagiarism, how does ChatGPT induce plagiarism? Originality for future science
+tldr: nan
+abstract: nan
+
+paperId: db57eb1ee264b9eae7d158965b8a4db0e042a3f6
+publicationDate: 2023-07-27
+influentialCitationCount: 0
+title: ChatGPT and oncological applications: comment
+tldr: nan
+abstract: nan
+
+paperId: dbd7c7be0a0ee3d78152f3df9f40281c837be107
+publicationDate: nan
+influentialCitationCount: 0
+title: Towards syntax-aware pretraining and prompt engineering for knowledge retrieval from large language models
+tldr: nan
+abstract: nan
+
+paperId: dc2ac3e4d9e58da3fd1c3a1426c67da4810c172e
+publicationDate: 2023-02-27
+influentialCitationCount: 0
+title: Lessons Learned from Ivermectin
+tldr: nan
+abstract: nan
+
+paperId: dc976bca01f879f18c9302c9119d7f1ba41332b7
+publicationDate: 2023-10-12
+influentialCitationCount: 0
+title: Contribution and performance of ChatGPT and other Large Language Models (LLM) for scientific and research advancements: a double-edged sword
+tldr: nan
+abstract: nan
+
+paperId: dcc30d11ec50f34eb078b48ec34ad8d802d0bf39
+publicationDate: nan
+influentialCitationCount: 0
+title: Schema-Based Priming of Large Language Model for Data Object Validation Compliance
+tldr: nan
+abstract: nan
+
+paperId: dd64369587e1410181e48c8338e96779922e438d
+publicationDate: 2023-08-31
+influentialCitationCount: 0
+title: Redefining deficits in autistic emotion recognition
+tldr: nan
+abstract: nan
+
+paperId: de80c9e513e288e32fdafec032084e8136ff1d95
+publicationDate: 2023-09-22
+influentialCitationCount: 0
+title: Perception of Dutch vowels by Cypriot Greek listeners: To what extent can listeners’ patterns be predicted by acoustic and perceptual similarity?
+tldr: nan
+abstract: nan
+
+paperId: df02e2305c7fbc7d7a84b9b4bb1504adde91bb00
+publicationDate: 2023-06-07
+influentialCitationCount: 0
+title: On the use of large language models in the water domain: Navigating the Scylla of naïve techno-optimism and the Charybdis of technology denial
+tldr: nan
+abstract: nan
+
+paperId: dfa37efea8573487d0c84646fa75a80213ab1d61
+publicationDate: nan
+influentialCitationCount: 0
+title: The Commercial Potential of Science and Its Realization: Evidence From a Measure Using a Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: dffdd1686218128e0284e45c24fdbc36976f31c1
+publicationDate: nan
+influentialCitationCount: 0
+title: MEEP: Is this Engaging? Prompting Large Language Models for Dialogue Evaluation in Multilingual Settings
+tldr: nan
+abstract: nan
+
+paperId: e01873616631a945a286bde13e962718fd52a4f3
+publicationDate: 2023-07-10
+influentialCitationCount: 0
+title: Publisher Correction: Fighting reviewer fatigue or amplifying bias? Considerations and recommendations for use of ChatGPT and other large language models in scholarly peer review
+tldr: nan
+abstract: nan
+
+paperId: e0328f17e5626bc4e370a2ecd1104b61408070e5
+publicationDate: nan
+influentialCitationCount: 0
+title: StableYolo: Optimizing Image Generation for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: e20f498c337d7917621798b8a7ce86b4fcbba5ff
+publicationDate: 2023-12-11
+influentialCitationCount: 0
+title: Large language models: implications of rapid evolution in medicine.
+tldr: nan
+abstract: nan
+
+paperId: e25238378ab20701464aa889c423583f287c59f9
+publicationDate: 2023-06-20
+influentialCitationCount: 0
+title: Open-source AI chatbots are booming — what does this mean for researchers?
+tldr: nan
+abstract: nan
+
+paperId: e26fe8f5aaebc43f4bbb040e992908eede6eb0e7
+publicationDate: 2023-06-01
+influentialCitationCount: 0
+title: Writing the paper “Unveiling artificial intelligence: an insight into ethics and applications in anesthesia” implementing the large language model ChatGPT: a qualitative study
+tldr: nan
+abstract: nan
+
+paperId: e2a1101751cd2651404fe0d80d425bd823ce1a14
+publicationDate: 2023-12-12
+influentialCitationCount: 0
+title: Comment on: AI am a rheumatologist: a practical primer to large language models for rheumatologists.
+tldr: nan
+abstract: nan
+
+paperId: e340efad1e185fc7bd41b4b32baf41fe1cb762b6
+publicationDate: 2023-03-07
+influentialCitationCount: 0
+title: The Role and Limitations of Large Language Models Such as ChatGPT in Clinical Settings and Medical Journalism.
+tldr: nan
+abstract: nan
+
+paperId: e38df66998411ab6552bd161bffe246de3c138cd
+publicationDate: nan
+influentialCitationCount: 0
+title: End-to-end Dependency Parsing via Auto-regressive Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: e4ec661fe19056c2747727fd3dce0578393ddd3d
+publicationDate: 2023-05-01
+influentialCitationCount: 0
+title: Writing the rules in AI-assisted writing
+tldr: nan
+abstract: nan
+
+paperId: e51071586d14da3b84f058ba145bd3d3d06b7351
+publicationDate: 2023-08-25
+influentialCitationCount: 0
+title: Evaluating the Effectiveness of Artificial Intelligence-Powered Large Language Models Application in Disseminating Appropriate and Readable Health Information in Urology. Reply.
+tldr: nan
+abstract: nan
+
+paperId: e548942b23a54f3492d2ff566a6729d8f37278bd
+publicationDate: 2023-06-30
+influentialCitationCount: 0
+title: Large language model AI chatbots require approval as medical devices
+tldr: nan
+abstract: nan
+
+paperId: e6731b0cd94f05a020561ad12ed7ac147ca6049a
+publicationDate: 2023-06-01
+influentialCitationCount: 0
+title: Leveraging Large Language Models to Enhance Digital Health in Cardiology: A Preview of a Cutting-Edge Language Generation Model
+tldr: nan
+abstract: nan
+
+paperId: e6900e063cca72a6f1352c21c85adb44b45e746c
+publicationDate: 2023-04-01
+influentialCitationCount: 0
+title: WetGPT? Kan een Large Language Model wetten schrijven?
+tldr: nan
+abstract: nan
+
+paperId: e6910dfeece098e72036b6fce10e423b3849237d
+publicationDate: 2023-11-15
+influentialCitationCount: 0
+title: Extracting insights from scientific publications using large language models
+tldr: nan
+abstract: nan
+
+paperId: e6f5fc71da03726fab85b8eff881535293b9c177
+publicationDate: 2023-08-15
+influentialCitationCount: 0
+title: Response to correspondence regarding "Analysis of large-language model versus human performance for genetics questions".
+tldr: nan
+abstract: nan
+
+paperId: e8e50174a04e03477db4de6531b509c08e9b1eb1
+publicationDate: 2023-03-13
+influentialCitationCount: 1
+title: Welcome to the Era of ChatGPT et al.
+tldr: nan
+abstract: nan
+
+paperId: e9371a8176dab02343270510e4890e3677cb385e
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Students’ use of large language models in engineering education: A case study on technology acceptance, perceptions, efficacy, and detection chances
+tldr: nan
+abstract: nan
+
+paperId: e9b8c78b5a85f4118fb5040ba1982693460f480d
+publicationDate: 2023-05-04
+influentialCitationCount: 0
+title: Balancing caution and ınnovation: exploring the potential of large language models in critical decision-making
+tldr: nan
+abstract: nan
+
+paperId: e9bcbc2f9d383292d7a433bc9b59b01f3ea5de4e
+publicationDate: 2023-08-04
+influentialCitationCount: 0
+title: Introducing ClinicGPT - A custom large language model for institutional dental clinics.
+tldr: nan
+abstract: nan
+
+paperId: eb2b7ecc3750a736feda451acc067314d7b0f01c
+publicationDate: 2023-02-01
+influentialCitationCount: 0
+title: Large language models and scientific publishing
+tldr: nan
+abstract: nan
+
+paperId: eb41f6c8e8858c20aacda6d36c53404050a90f28
+publicationDate: 2023-08-22
+influentialCitationCount: 0
+title: Cloud-basierte KI-Anwendungen für Natural Language Processing: Marktüberblick und Vorstellung von typischen Anwendungsfällen für den Mittelstand
+tldr: nan
+abstract: nan
+
+paperId: eb9653ce46f91a7adf89993467caa68bef102898
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Evaluating the Clinical Decision-Making Ability of Large Language Models Using MKSAP-19 Cardiology Questions
+tldr: nan
+abstract: nan
+
+paperId: ebb36ddcd14426dfa50a9266fa3a6a094871be77
+publicationDate: nan
+influentialCitationCount: 0
+title: LARGE LANGUAGE MODEL-BASED ARTIFICIAL INTELLIGENCE IN THE LANGUAGE CLASSROOM: PRACTICAL IDEAS FOR TEACHING
+tldr: nan
+abstract: nan
+
+paperId: ebc1f84c4b0e7c114f21265c774b36e8c5182649
+publicationDate: 2023-08-18
+influentialCitationCount: 0
+title: Comment on: AI am a Rheumatologist: A Practical Primer to Large Language Models for Rheumatologists: Reply.
+tldr: nan
+abstract: nan
+
+paperId: eda9557e5bc259a8fed3aa1e9a1d3dd6625f5fd4
+publicationDate: 2023-07-06
+influentialCitationCount: 0
+title: Bringing legal knowledge to the public by constructing a legal question bank using large-scale pre-trained language model
+tldr: nan
+abstract: nan
+
+paperId: ede03f4b48756d3027f7944db355589d1f5bc930
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Future potential challenges of using large language models like ChatGPT in daily medical practice.
+tldr: nan
+abstract: nan
+
+paperId: ee1fce25507ec16a88023a27be5f16e544310f9b
+publicationDate: nan
+influentialCitationCount: 0
+title: What Is Waiting for Us at the End? Inherent Biases of Game Story Endings in Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: ee269c206437d297781687c634ca96272caeca03
+publicationDate: nan
+influentialCitationCount: 0
+title: A Three-Stage Framework for Event-Event Relation Extraction with Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: eecdfd217226a062d5c0889e2edbd36704bd0622
+publicationDate: 2023-07-06
+influentialCitationCount: 0
+title: Examining Teachers’ Use of Dialogic Reading Strategies Following A Multiple Component Professional Development Intervention
+tldr: nan
+abstract: nan
+
+paperId: ef398ac259d7e09edf92a9b60dc77112fcc5440a
+publicationDate: 2023-02-02
+influentialCitationCount: 0
+title: Classification for the Concrete Syntax of Graph-Like Modeling Languages
+tldr: nan
+abstract: nan
+
+paperId: f1410daab59112afe7d4b67507ea178fcbeab7a0
+publicationDate: 2023-01-01
+influentialCitationCount: 0
+title: Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research
+tldr: nan
+abstract: nan
+
+paperId: f1c5f3f79832de38c563843f1458b606c13e5c02
+publicationDate: nan
+influentialCitationCount: 0
+title: Large language models and the retina: a review of current applications and future directions
+tldr: nan
+abstract: nan
+
+paperId: f1cbd6998b32a50cfe1a62c2c015710ff623f408
+publicationDate: nan
+influentialCitationCount: 0
+title: PEER: Empowering Writing with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: f219c0cdbbbe0c3ecc914cb6d96665d13833bd82
+publicationDate: 2023-07-06
+influentialCitationCount: 0
+title: Radiology in the era of large language models: the near and the dark side of the moon
+tldr: nan
+abstract: nan
+
+paperId: f326fec3f5d0886bfa01bcfcb4a46c24afbec5bf
+publicationDate: 2023-11-24
+influentialCitationCount: 0
+title: ChatGPT and university teaching, learning and assessment: some initial reflections on teaching academic integrity in the age of Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: f3de377df96341672d0fc9b4859bd2cefcad3068
+publicationDate: nan
+influentialCitationCount: 0
+title: Conversational Agent Development Through Large Language Models: Approach with GPT
+tldr: nan
+abstract: nan
+
+paperId: f4c2b23fc463867f6c54e82fac0ccbb6617c5324
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Large language models for human-robot interaction: A review
+tldr: nan
+abstract: nan
+
+paperId: f4c653abeb490de52a76fc5e8b4e4545e7d79699
+publicationDate: nan
+influentialCitationCount: 0
+title: Leveraging Large Language? Models with Multiple Loss Learners for Few-Shot Author Profiling
+tldr: nan
+abstract: nan
+
+paperId: f5b80b330b8a62abd742a99795c83dd21232454b
+publicationDate: 2023-10-12
+influentialCitationCount: 0
+title: ChatGPT is not capable of serving as an author: ethical concerns and challenges of large language models in education
+tldr: nan
+abstract: nan
+
+paperId: f617e10abddd2b63e989841153ac25f80c23f2ef
+publicationDate: nan
+influentialCitationCount: 0
+title: Challenges and Limitations of ChatGPT and Other Large Language Models Challenges
+tldr: nan
+abstract: nan
+
+paperId: f69ef5a43148217bd51083015a00379243707106
+publicationDate: nan
+influentialCitationCount: 0
+title: Creative Mutation: A Prescriptive Approach to the Use of ChatGPT and Large Language Models in Lawyering
+tldr: nan
+abstract: nan
+
+paperId: f743cc9fa3da72aa7880855d321a349d0aa20d76
+publicationDate: nan
+influentialCitationCount: 0
+title: Generative AI and Simulation Modeling: How Should You (Not) Use Large Language Models Like ChatGPT
+tldr: nan
+abstract: nan
+
+paperId: f785cd709d3058e5c89f5773dd52b6c2bce357f7
+publicationDate: nan
+influentialCitationCount: 0
+title: From Playing the Story to Gaming the System: Repeat Experiences of a Large Language Model-Based Interactive Story
+tldr: nan
+abstract: nan
+
+paperId: f7ab8bafde4f32d63801f136ce575be62a41fb22
+publicationDate: 2023-10-18
+influentialCitationCount: 0
+title: Large language models should be used as scientific reasoning engines, not knowledge databases
+tldr: nan
+abstract: nan
+
+paperId: f806598c87a6d67b122a93fb5c9e70514eebf809
+publicationDate: 2023-01-23
+influentialCitationCount: 0
+title: Validation of the Arabic Version of the Community Assessment of Psychic Experiences (CAPE-42) in a Large Sample of Young Adults from the General Population
+tldr: nan
+abstract: nan
+
+paperId: f807ca93e00ad8f07df22f07f3f73d48fde5084d
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: Systems Engineering Issues for Industry Applications of Large Language Model
+tldr: nan
+abstract: nan
+
+paperId: f81f9fe971fa8e027ae2c940305704017202b795
+publicationDate: nan
+influentialCitationCount: 0
+title: BERTinchamps: Cost-effective Training of Large Language Models for Medical Tasks in French
+tldr: nan
+abstract: nan
+
+paperId: f91b760877c11e4437ea3ec1b0a24cbb4fa2e228
+publicationDate: nan
+influentialCitationCount: 0
+title: Related Table Search for Numeric data using Large Language Models and Enterprise Knowledge Graphs
+tldr: nan
+abstract: nan
+
+paperId: f97dc39bdc84e8beb1edd66d7294c61b2db6a072
+publicationDate: nan
+influentialCitationCount: 0
+title: Using Large Language Models for the Enforcement of Consumer Rights in Germany
+tldr: nan
+abstract: nan
+
+paperId: fbfaee45c4b993bc50c221bcb09b0f787a6b73e0
+publicationDate: nan
+influentialCitationCount: 0
+title: From Knowledge Management to Intelligence Engineering - An Approach to Building AI in the Law Firm Using Open-source Large Language Models⋆
+tldr: nan
+abstract: nan
+
+paperId: fc4c3707a10d342732404d97badf7f7c3d70e99d
+publicationDate: 2023-11-13
+influentialCitationCount: 0
+title: Reporting standards for the use of large language model-linked chatbots for health advice
+tldr: nan
+abstract: nan
+
+paperId: fcf1cad4f876b5e3af398e0274001f165b6324c9
+publicationDate: 2023-11-01
+influentialCitationCount: 0
+title: Connecting AI: Merging Large Language Models and Knowledge Graph
+tldr: nan
+abstract: nan
+
+paperId: fd19acf53899a33c0c84c21533ddf7f88b079485
+publicationDate: nan
+influentialCitationCount: 0
+title: Compositional Semantic Parsing with Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: fd33676f15b60a6ebd0d3111fc64bec6da81b09f
+publicationDate: nan
+influentialCitationCount: 0
+title: A Comparative Study of Chatbot Response Generation: Traditional Approaches Versus Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: fd4cc4b1a627a13a52e4a999101f29e7b69f113d
+publicationDate: nan
+influentialCitationCount: 0
+title: Prompting Large Language Models to Power Educational Chatbots
+tldr: nan
+abstract: nan
+
+paperId: fd703004731e5dc206edf825f33fe34aaddcabd7
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: CentralBankRoBERTa: A Fine-Tuned Large Language Model for Central Bank Communications
+tldr: nan
+abstract: nan
+
+paperId: fd77eb6cd81c86fa3f69e7e549e3239d7a106799
+publicationDate: 2023-10-01
+influentialCitationCount: 0
+title: Feasibility and Prospect of Privacy-preserving Large Language Models in Radiology.
+tldr: nan
+abstract: nan
+
+paperId: fdbc5811a8281dbf5397dc37782d37d5725c973d
+publicationDate: nan
+influentialCitationCount: 0
+title: Adaptation of Enterprise Modeling Methods for Large Language Models
+tldr: nan
+abstract: nan
+
+paperId: fe6c9a2071755ae1511adbc21e60f67c48330135
+publicationDate: 2023-05-09
+influentialCitationCount: 1
+title: Comparative analysis of large language models in the Royal College of Ophthalmologists fellowship exams
+tldr: nan
+abstract: nan
+
+paperId: fe8fd89cb5974f0f8f0ed9755e00401e44ca9a2c
+publicationDate: nan
+influentialCitationCount: 0
+title: Testing Spatial Reasoning of Large Language Models: the Case of Tic-Tac-Toe
+tldr: nan
+abstract: nan
+

@@ -1,0 +1,5 @@
+ipykernel
+bertopic
+openai
+tiktoken
+python-dotenv

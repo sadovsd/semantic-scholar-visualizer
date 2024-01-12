@@ -1,0 +1,84 @@
+paperId: 0cac2f4b42a7a02cdf81ae7a3647f5c7811f290d
+publicationDate: 2023-12-01
+influentialCitationCount: 0
+title: ChatGPT and large language models in orthopedics: from education and surgery to research
+tldr: The use of LLMs and ChatGPT to enhance and expand the field of orthopedics, including orthopedic education, surgery, and research, is explored.
+abstract: nan
+
+paperId: 3b8dd8bf98dab35558d5def3559d7acec112a430
+publicationDate: 2023-06-14
+influentialCitationCount: 0
+title: Differentially Private Recurrent Variational Autoencoder For Text Privacy Preservation
+tldr: The experimental results demonstrate that DP-RVAE can be applied to the NLP models to leverage accuracy while preserving sensitive privacy.
+abstract: nan
+
+paperId: 5fc95c12cf212a9580d9f5c16823b1efdc6f3e42
+publicationDate: 2023-07-29
+influentialCitationCount: 0
+title: Effect of Stopwords and Stemming Techniques in Urdu IR
+tldr: In both the stopword removal and stemming strategies, the BB2 retrieval model outperforms other models in the IR domain.
+abstract: nan
+
+paperId: 64c3925b1ee8000820892d287884325d95fad5c0
+publicationDate: 2023-05-19
+influentialCitationCount: 1
+title: The future of chemistry is language
+tldr: GPT-4 can accomplish complex tasks in chemistry purely from English instructions, which may transform the future of chemistry.
+abstract: nan
+
+paperId: 719e0639a04abb60106af1b2fe86298d3e1a6833
+publicationDate: 2023-12-29
+influentialCitationCount: 0
+title: An intent recognition pipeline for conversational AI
+tldr: This paper attempts to pick intents in descending order of their coverage in the corpus in the most optimal way possible.
+abstract: nan
+
+paperId: 8408e99ddb87890ac3d059c5a60e1d33b5f7cf8e
+publicationDate: 2023-03-15
+influentialCitationCount: 0
+title: Role of Chat GPT in Public Health
+tldr: The potential uses of ChatGPT in public health, as well as the advantages and disadvantages of its use are examined.
+abstract: nan
+
+paperId: a0bb3257957f30a84425f2c6cef178551feb46f7
+publicationDate: 2023-02-03
+influentialCitationCount: 0
+title: User Feedback on the Use of a Natural Language Processing Application to Screen for Suicide Risk in the Emergency Department
+tldr: Results suggest a brief, qualitative interview method was feasible, person-centered, and useful as a suicide risk detection approach.
+abstract: nan
+
+paperId: aaa5428585499258e8500e662e4d6f6a8a4e3ef5
+publicationDate: 2023-01-20
+influentialCitationCount: 1
+title: The safety and efficacy of mesenchymal stromal cells in ARDS: a meta-analysis of randomized controlled trials
+tldr: The safety of MSC was demonstrated to be non-inferior to that of standard treatment, and MSC may reduce the mortality rate of ARDS.
+abstract: nan
+
+paperId: bd0cb663efe7426944f1cc52611721f65295e3a6
+publicationDate: 2023-06-08
+influentialCitationCount: 2
+title: Effects of spicy food consumption on overweight/obesity, hypertension and blood lipids in China: a meta‐analysis of cross-sectional studies
+tldr: Spicy food intake may have a beneficial effect on hypertension, but adversely affect overweight/obesity, as well as blood lipid levels.
+abstract: nan
+
+paperId: bfad52fc64ca0169644b6e7e0ea9a46470d51709
+publicationDate: 2023-03-14
+influentialCitationCount: 1
+title: Can ChatGPT Replace Traditional KBQA Models? An In-Depth Analysis of the Question Answering Performance of the GPT LLM Family
+tldr: A framework that follows the black-box testing specifications of CheckList proposed by Ribeiro et.
+abstract: nan
+
+paperId: cec720b2f1309032cbc22d51730c9706203fc7ea
+publicationDate: 2023-08-01
+influentialCitationCount: 0
+title: Battle of the (Chat)Bots: Comparing Large Language Models to Practice Guidelines for Transfusion-Associated Graft-Versus-Host Disease Prevention.
+tldr: The potential use of generative AI for transfusion medicine and hematology topics but underscores the risk of chatbot medical misinformation.
+abstract: nan
+
+paperId: ee012d0ec843ccdbddc1b802300090828b8d8293
+publicationDate: 2023-04-15
+influentialCitationCount: 0
+title: ChatGPT and the Future of Health Policy Analysis: Potential and Pitfalls of Using ChatGPT in Policymaking
+tldr: The researcher briefly explains ChatGPT’s potential and the difficulties that users, such as researchers or policymakers, may continue to face.
+abstract: nan
+

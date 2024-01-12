@@ -1,0 +1,77 @@
+paperId: 007fe53c66d2ef8040a6ea20345abdc3051a228a
+publicationDate: 2023-10-12
+influentialCitationCount: 0
+title: Sistem Informasi Penggajian Karyawan Pada PT. Atlas Tata Citra Jambi
+tldr: Research on the analysis and design of payroll information systems at PT.
+abstract: The information system describes a system that has interrelated components such as collecting, processing, storing and distributing information to make a decision within an organization and can also be used as a consideration for decision making, coordination and control to help analyze the problem as a whole. One of the companies engaged in the distribution of building materials requires a computerized payroll system, namely PT. Atlas Tata Citra because there are still some problems at PT. Atlas Tata Citra is like managing employee salary data which still uses Microsoft Excel so that the process takes longer due to the large number of employees and data attachments for each employee must be processed and verified one by one. Another obstacle is filing payslips that are still manual, making it difficult for financial admins to find past data. Therefore authors conducted research on the analysis and design of payroll information systems at PT. The Tata Citra Atlas with the aim of the research that the author is conducting can be a consideration for companies to implement an information system in managing employee salary data that makes it easy to provide reports and payslips without requiring a long time. This research system modeling uses UML (Unified Modeling Language) including Use Case Diagrams, Activity Diagrams, Class Diagrams and prototype system development methods. The prototype design was carried out by the author using Figma.
+
+paperId: 2ff69c238e26c473a6d8bcbb9292ded74d7fd1c2
+publicationDate: 2023-05-23
+influentialCitationCount: 0
+title: Prompting Language-Informed Distribution for Compositional Zero-Shot Learning
+tldr: A model by prompting the language-informed distribution, aka.
+abstract: Compositional zero-shot learning (CZSL) task aims to recognize unseen compositional visual concepts, e.g., sliced tomatoes, where the model is learned only from the seen compositions, e.g., sliced potatoes and red tomatoes. Thanks to the prompt tuning on large pre-trained visual language models such as CLIP, recent literature shows impressively better CZSL performance than traditional vision-based methods. However, the key aspects that impact the generalization to unseen compositions, including the diversity and informativeness of class context, and the entanglement between visual primitives, i.e., state and object, are not properly addressed in existing CLIP-based CZSL literature. In this paper, we propose a model by prompting the language-informed distribution, aka., PLID, for the CZSL task. Specifically, the PLID leverages pre-trained large language models (LLM) to 1) formulate the language-informed class distributions which are diverse and informative, and 2) enhance the compositionality of the class embedding. Moreover, a visual-language primitive decomposition (VLPD) module and a stochastic logit mixup (SLM) strategy are proposed to dynamically fuse the decisions from the compositional and the primitive logit space. Orthogonal to the existing literature of soft, hard, or distributional prompts, our method advocates prompting the LLM-supported class distribution that leads to a better zero-shot generalization. Experimental results on MIT-States, UT-Zappos, and C-GQA datasets show the superior performance of the PLID to the prior arts.
+
+paperId: 310ed497ef5ad4af90fac9f4134ce8121cea5d71
+publicationDate: nan
+influentialCitationCount: 0
+title: Extracting Features for Computational Thinking from Block-Based Code
+tldr: This work proposes an automated evaluator (autograder) for Snap!
+abstract: To support undertrained instructors in introductory computer science classes, we proposed an automated evaluator (autograder) for Snap! , a block-based programming language whose colorful visual interface is more beginner-friendly. Our approach is not only novel in working natively on a non-textual language but also in its assessment of the computational thinking (CT) reflected in the structure of a student’s submission rather than the accuracy or run-time of its execution. This relies on assessing demonstrated knowledge of abstraction and iteration from an XML tree representation of a student’s Snap! program. Approaches supported by literature involve clustering trees with similar structures together; however, methods such as path matching were too generalized and inadequate at reflecting specific CT elements. To this end, we explore how to tailor our feature extraction to capture such elements, including consecutive repetition and encapsulation of functional blocks. Unlike proprietary autograders, our approach integrates the academic community into the research and development of the optimal feature embedding of Snap! programs; thus, we present both successful and unsuccessful endeavors to inform replications of this work. We also highlight avenues for feature tuning and scalability of the autograding model to larger, more diverse classrooms.
+
+paperId: 3782aa1aa68786af5132304a5fc580b5b89ff4af
+publicationDate: 2023-06-05
+influentialCitationCount: 0
+title: AutoScrum: Automating Project Planning Using Large Language Models
+tldr: This paper automates everything using a novel concept of "Language Programs".
+abstract: Recent advancements in the field of large language models have made it possible to use language models for advanced reasoning. In this paper we leverage this ability for designing complex project plans based only on knowing the current state and the desired state. Two approaches are demonstrated - a scrum based approach and a shortcut plan approach. The scrum based approach executes an automated process of requirements gathering, user story mapping, feature identification, task decomposition and finally generates questions and search terms for seeking out domain specific information to assist with task completion. The shortcut approach looks at most recent snapshot of the current and desired state and generates the next most reasonable task to do in order to get to the desired state as quickly as possible. In this paper we automate everything using a novel concept of"Language Programs". These are programs written in natural language designed to process input data through the language model. Guidance language is used for all LLM programs. All demo source code for this paper is available at https://github.com/autoscrum/autoscrum
+
+paperId: 7a830b5dfeab3616dec9b966b156785bf16e39e4
+publicationDate: nan
+influentialCitationCount: 0
+title: 大模型与知识图谱(Large Language Models and Knowledge Graphs)
+tldr: “知识图谱作为了工业界和学术界的广泛关注”
+abstract: “知识图谱作为一种重要的知识组织形式,常被视为下一代人工智能技术的基础设施之一,引起了工业界和学术界的广泛关注。传统知识图谱表示方法主要使用符号显式地描述概念及其之间的结构关系,具有语义清晰和可解释性好等特点,但其知识类型有限,难以应对开放域应用场景。随着大规模预训练语言模型(大模型)的发展,将参数化的大模型视为知识图谱成为研究热点。在这一背景下,本文聚焦于大模型在知识图谱生命周期中的研究,总结分析了大模型在知识建模、知识获取、知识融合、知识管理、知识推理和知识应用等环节中的研究进展。最后,对大模型与知识图谱未来发展趋势予以展望。”
+
+paperId: 8514471bc62270bf48d0bead9a86253f02817cb6
+publicationDate: 2023-10-31
+influentialCitationCount: 0
+title: Do large language models solve verbal analogies like children do?
+tldr: This paper investigates whether large language models (LLMs) solve verbal analogies in A:B::C:?
+abstract: Analogy-making lies at the heart of human cognition. Adults solve analogies such as \textit{Horse belongs to stable like chicken belongs to ...?} by mapping relations (\textit{kept in}) and answering \textit{chicken coop}. In contrast, children often use association, e.g., answering \textit{egg}. This paper investigates whether large language models (LLMs) solve verbal analogies in A:B::C:? form using associations, similar to what children do. We use verbal analogies extracted from an online adaptive learning environment, where 14,002 7-12 year-olds from the Netherlands solved 622 analogies in Dutch. The six tested Dutch monolingual and multilingual LLMs performed around the same level as children, with MGPT performing worst, around the 7-year-old level, and XLM-V and GPT-3 the best, slightly above the 11-year-old level. However, when we control for associative processes this picture changes and each model's performance level drops 1-2 years. Further experiments demonstrate that associative processes often underlie correctly solved analogies. We conclude that the LLMs we tested indeed tend to solve verbal analogies by association with C like children do.
+
+paperId: a73ef20f4a40817e0d34c68e31be49f438515ab3
+publicationDate: 2023-07-17
+influentialCitationCount: 0
+title: Use of large language models for evidence-based cardiovascular medicine
+tldr: ChatGPT fails the test of evidencebased medicine’, by W. Haverkamp et al.
+abstract: * Corresponding author. Tel: +41 79 556 82 05, Email: stephane.fournier@chuv.ch © The Author(s) 2023. Published by Oxford University Press on behalf of the European Society of Cardiology. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com Commentary article to: ‘ChatGPT fails the test of evidencebased medicine’, by W. Haverkamp et al. https://doi.org/10. 1093/ehjdh/ztad043.
+
+paperId: bfad52fc64ca0169644b6e7e0ea9a46470d51709
+publicationDate: 2023-03-14
+influentialCitationCount: 1
+title: Can ChatGPT Replace Traditional KBQA Models? An In-Depth Analysis of the Question Answering Performance of the GPT LLM Family
+tldr: A framework that follows the black-box testing specifications of CheckList proposed by Ribeiro et.
+abstract: nan
+
+paperId: bfd7c6e68638e791e795cefd3fc55ff1e88f6595
+publicationDate: nan
+influentialCitationCount: 0
+title: Safety and Ethical Concerns of Large Language Models
+tldr: This tutorial is proposed as a gentle introduction to the safety and ethical issues of LLMs.
+abstract: “Recent months have witnessed significant progress in the field of large language models (LLMs).Represented by ChatGPT and GPT-4, LLMs perform well in various natural language process-ing tasks and have been applied to many downstream applications to facilitate people’s lives.However, there still exist safety and ethical concerns. Specifically, LLMs suffer from social bias,robustness problems, and poisoning issues, all of which may induce LLMs to spew harmful con-tents. We propose this tutorial as a gentle introduction to the safety and ethical issues of LLMs.”
+
+paperId: eb44ce1f7e1f4deac10f6e7009e2073f1eb0b3e4
+publicationDate: 2023-11-07
+influentialCitationCount: 0
+title: The Linear Representation Hypothesis and the Geometry of Large Language Models
+tldr: This paper addresses two closely related questions: What does "linear representation"actually mean?
+abstract: Informally, the 'linear representation hypothesis' is the idea that high-level concepts are represented linearly as directions in some representation space. In this paper, we address two closely related questions: What does"linear representation"actually mean? And, how do we make sense of geometric notions (e.g., cosine similarity or projection) in the representation space? To answer these, we use the language of counterfactuals to give two formalizations of"linear representation", one in the output (word) representation space, and one in the input (sentence) space. We then prove these connect to linear probing and model steering, respectively. To make sense of geometric notions, we use the formalization to identify a particular (non-Euclidean) inner product that respects language structure in a sense we make precise. Using this causal inner product, we show how to unify all notions of linear representation. In particular, this allows the construction of probes and steering vectors using counterfactual pairs. Experiments with LLaMA-2 demonstrate the existence of linear representations of concepts, the connection to interpretation and control, and the fundamental role of the choice of inner product.
+
+paperId: f608a37536948b77e82942f72d7b119bff162b71
+publicationDate: 2023-10-31
+influentialCitationCount: 0
+title: What's In My Big Data?
+tldr: This work proposes What's In My Big Data?
+abstract: Large text corpora are the backbone of language models. However, we have a limited understanding of the content of these corpora, including general statistics, quality, social factors, and inclusion of evaluation data (contamination). In this work, we propose What's In My Big Data? (WIMBD), a platform and a set of sixteen analyses that allow us to reveal and compare the contents of large text corpora. WIMBD builds on two basic capabilities -- count and search -- at scale, which allows us to analyze more than 35 terabytes on a standard compute node. We apply WIMBD to ten different corpora used to train popular language models, including C4, The Pile, and RedPajama. Our analysis uncovers several surprising and previously undocumented findings about these corpora, including the high prevalence of duplicate, synthetic, and low-quality content, personally identifiable information, toxic language, and benchmark contamination. For instance, we find that about 50% of the documents in RedPajama and LAION-2B-en are duplicates. In addition, several datasets used for benchmarking models trained on such corpora are contaminated with respect to important benchmarks, including the Winograd Schema Challenge and parts of GLUE and SuperGLUE. We open-source WIMBD's code and artifacts to provide a standard set of evaluations for new text-based corpora and to encourage more analyses and transparency around them: github.com/allenai/wimbd.
+

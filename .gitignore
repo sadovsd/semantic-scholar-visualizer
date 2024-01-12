@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv_paper_visualizer/
+
+# Ignore environment variables
+.env
+
+# Ignore deployment configurations
+rsconnect/
+
+# Ignore commands previously executed in R session. 
+.Rhistory
