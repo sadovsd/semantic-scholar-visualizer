@@ -9,3 +9,6 @@ rsconnect/
 
 # Ignore commands previously executed in R session. 
 .Rhistory
+
+# Ignore abstract_embeddings.json because it is exceeds GitHub's file size limit of 100.00 MB
+abstract_embeddings.json
