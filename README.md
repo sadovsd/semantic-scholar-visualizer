@@ -10,7 +10,7 @@ Extract and process academic paper data (authors, citation counts, influential c
 
 ## 3. Run `app.R` to display the RShiny dashboard
 
-## Deploy the dashboard to the cloud:
+## 4. Deploy the dashboard to the cloud:
 - Create a shinyapps account here: [shinyapps.io](https://www.shinyapps.io).
 - Follow the instructions for deployment here: [Deploying to shinyapps.io](https://shiny.posit.co/r/articles/share/shinyapps/).
 - When deploying, set the directory to the app as the folder that contains both the `app.R` file and the `papers.RData` file. I named this file `LLM-papers-2023-dashboard`, but you can rename it to anything else. Note that this folder name will appear in the URL of the RShiny web app. For example, mine is [https://davydsadovskyy.shinyapps.io/llm-papers-2023-dashboard/](https://davydsadovskyy.shinyapps.io/llm-papers-2023-dashboard/).
