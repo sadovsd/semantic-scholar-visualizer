@@ -46,7 +46,7 @@ paper_data <- paper_data %>%
 
 ####### ------- DATASET 2: Create data that will be used for the Topic Statistics visualization ------- #######
 
-papers_df <- read.csv('papers_includingNAdate.csv')
+papers_df <- read.csv('papers.csv')
 
 df_authors <- papers_df %>%
   mutate(authorId = strsplit(as.character(authorIds), ",\\s*")) %>%
@@ -126,7 +126,7 @@ topic_stats <- topic_stats %>%
 ####### ------- DATASET 3: Create data that will be used for author influence visualization. This dataset is the the set #######
 ####### of unique authors for each topic category  ------- #######
 
-papers_df <- read.csv('papers_includingNAdate.csv')
+papers_df <- read.csv('papers.csv')
 
 # Currently, the authors for a paper are comma separated so we have to create long format data
 df_authors <- papers_df %>%
