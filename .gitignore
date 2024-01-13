@@ -12,3 +12,6 @@ rsconnect/
 
 # Ignore abstract_embeddings.json because it is exceeds GitHub's file size limit of 100.00 MB
 abstract_embeddings.json
+
+# Keep the repository clean and free from system-specific temporary files
+.DS_Store
